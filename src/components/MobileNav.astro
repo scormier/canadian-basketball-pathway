@@ -1,0 +1,69 @@
+---
+import { NAV_SECTIONS } from "../config/site.mjs";
+
+const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+---
+
+<div class="lg:hidden border-b border-gray-200 bg-white">
+  <button
+    type="button"
+    class="w-full px-4 py-3 flex items-center justify-between text-sm text-gray-600 hover:text-gray-900"
+    aria-label="Toggle guide navigation"
+    aria-expanded="false"
+    id="guide-nav-toggle"
+  >
+    <span>Guide Navigation</span>
+    <svg class="w-4 h-4 transition-transform" id="guide-nav-chevron" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+    </svg>
+  </button>
+  <nav
+    id="guide-nav-mobile"
+    class="hidden px-4 pb-4 max-h-[60vh] overflow-y-auto"
+    aria-label="Guide navigation"
+  >
+    {NAV_SECTIONS.map((section) => (
+      <div class="mb-4">
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-1">
+          {section.label}
+        </h3>
+        <ul class="space-y-0.5" role="list">
+          {section.items.map((item) => {
+            const isActive = currentPath === item.href || currentPath === item.href + '/';
+            return (
+              <li>
+                <a
+                  href={item.href}
+                  class:list={[
+                    "block px-3 py-1.5 rounded-md text-sm transition-colors",
+                    isActive
+                      ? "bg-orange-50 text-orange-700 font-medium"
+                      : "text-gray-600 hover:text-gray-900 hover:bg-gray-50",
+                  ]}
+                  aria-current={isActive ? "page" : undefined}
+                >
+                  {item.label}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+  </nav>
+</div>
+
+<script>
+  const toggle = document.getElementById('guide-nav-toggle');
+  const nav = document.getElementById('guide-nav-mobile');
+  const chevron = document.getElementById('guide-nav-chevron');
+
+  if (toggle && nav && chevron) {
+    toggle.addEventListener('click', () => {
+      const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', String(!isExpanded));
+      nav.classList.toggle('hidden');
+      chevron.style.transform = isExpanded ? '' : 'rotate(180deg)';
+    });
+  }
+</script>
