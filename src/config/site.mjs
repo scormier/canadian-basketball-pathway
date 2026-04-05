@@ -21,7 +21,6 @@ export const NAV_SECTIONS = [
       { label: "Sneaker Circuits Explained", href: "/circuits/sneaker-circuits" },
       { label: "Evaluating Programs & Teams", href: "/circuits/evaluating-programs" },
       { label: "Eligibility Rules", href: "/circuits/eligibility-rules" },
-      { label: "Recruiting Reality", href: "/circuits/recruiting-reality" },
     ],
   },
   {
@@ -35,6 +34,7 @@ export const NAV_SECTIONS = [
   {
     label: "Post-Secondary Options",
     items: [
+      { label: "The Path to NCAA D1", href: "/circuits/recruiting-reality" },
       { label: "USports", href: "/post-secondary/usports" },
       { label: "Alternative Pathways to D1", href: "/post-secondary/alternative-pathways" },
     ],
