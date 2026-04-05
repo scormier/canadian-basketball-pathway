@@ -2,7 +2,7 @@
 import { NAV_SECTIONS } from "../config/site.mjs";
 
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
-const BMAC_URL = "https://buymeacoffee.com/scormier";
+const BMAC_URL = "https://www.buymeacoffee.com/scormier";
 ---
 
 <aside class="hidden lg:block w-64 shrink-0">
@@ -41,7 +41,7 @@ const BMAC_URL = "https://buymeacoffee.com/scormier";
         href={BMAC_URL}
         target="_blank"
         rel="noopener noreferrer"
-        class="inline-flex items-center gap-1.5 px-3 py-2 text-xs text-gray-500 bg-white border border-gray-200 rounded hover:border-gray-300 hover:text-gray-700 transition-colors no-underline"
+        class="flex items-center justify-center gap-1.5 w-full px-3 py-2 text-xs text-gray-500 bg-white border border-gray-200 rounded hover:border-gray-300 hover:text-gray-700 transition-colors no-underline"
       >
         ☕ Buy us a coffee
       </a>
