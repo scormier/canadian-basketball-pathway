@@ -14,7 +14,7 @@ export default defineConfig({
 				{
 					label: 'Overview',
 					items: [
-						{ label: 'The Canadian Basketball Pathway', slug: 'overview' },
+						{ label: 'The Canadian Basketball Pathway', slug: '' },
 					],
 				},
 				{
