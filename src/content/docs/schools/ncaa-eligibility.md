@@ -1,0 +1,277 @@
+---
+title: NCAA Eligibility for Canadians
+description: NCAA Eligibility Center registration, academic requirements, and the eligibility clock for Canadian student-athletes.
+---
+
+# NCAA Eligibility for Canadians
+
+If your kid wants to play basketball at an NCAA school in the United States, they don't just need talent — they need to be **academically eligible** and **registered with the NCAA Eligibility Center.** This is the bureaucratic side of the pathway, and mistakes here can cost a player their eligibility, delay their enrollment, or disqualify them entirely.
+
+For Canadian families, the process has extra steps and unique pitfalls because you're classified as **international students.** This guide walks through what you need to know.
+
+
+## The NCAA Eligibility Center — What It Is
+
+The [NCAA Eligibility Center](https://web3.ncaa.org/ecwr3/) (formerly called the NCAA Clearinghouse) is the organization that determines whether a student-athlete meets the academic and amateurism requirements to compete at NCAA Division I or Division II schools.
+
+**Every player who wants to compete at the D1 or D2 level must be cleared by the Eligibility Center.** No clearance = no competing, regardless of talent or scholarship offers.
+
+The Eligibility Center evaluates:
+1. **Academic eligibility** — Did the student complete the required courses with the required GPA?
+2. **Amateurism status** — Has the student maintained amateur status? (No payment for play, no pro contracts, no improper benefits)
+
+**D3 does not require Eligibility Center registration** — eligibility is handled by the individual school.
+
+
+## Registration — When and How
+
+### When to register
+
+**Start early.** The NCAA recommends registering before grade 9 (US freshman year) — which for Canadian students means before grade 10 in Alberta (HS Year 1). That said, it's never too late to register. The earlier you start, the more time you have to ensure your courses and grades are on track.
+
+**Key timing note:** Your Eligibility Center account doesn't start processing until an **NCAA member school requests your eligibility status** — meaning a college program puts you on their institutional request list (IRL). So registering early doesn't trigger anything; it just gets your information into the system so it's ready when a school requests it.
+
+### How to register
+
+1. **Create an account** at [eligibilitycenter.org](https://web3.ncaa.org/ecwr3/)
+2. **Choose the right account type:** If you plan to compete at D1 or D2, register for an **Academic and Athletics Certification** account
+3. **Pay the registration fee:** **$170 for international students** (this includes Canadian students). Domestic US students pay $110. Fee waivers may be available.
+4. **Submit your information** — academic records, test scores (if applicable), and amateurism questionnaire
+
+### What you'll need to submit
+
+| Document | Details |
+|---|---|
+| **Official transcripts** | From every school attended from grade 9 onward (grade 10 in Alberta = US grade 9). Must come directly from the school or school board — sealed envelope or official electronic system. Report cards and screenshots are NOT accepted. |
+| **Proof of graduation** | Required once you've graduated |
+| **Amateurism questionnaire** | Completed through your Eligibility Center account. Certifies your amateur status. |
+| **Test scores (SAT/ACT)** | As of 2023, the NCAA **no longer requires** standardized test scores for D1 or D2 eligibility. However, individual colleges may still require them for admissions or scholarships — check with each school. |
+
+### Canadian-specific considerations
+
+- **You are classified as an international student.** This affects your registration fee and how your transcripts are evaluated.
+- **Transcripts must come from every school you've attended from grade 9 (US) onward.** In Alberta, this means grade 10. If you attended a different school for reclassification (e.g., Banbury Crossroads), those transcripts are needed too.
+- **Each province has its own approved core course list.** The NCAA maintains country/region-specific guides for how international transcripts are evaluated. Your school's courses must map to NCAA-approved core courses. Not all Canadian courses count — verify with the Eligibility Center.
+- **Amateurism verification can take longer for international students,** especially if you've played in prep leagues, academies, or circuits that could be flagged for review.
+- **Translation is NOT typically needed for Canadian transcripts** (primary language of instruction is English or French, both accepted). But if you attended school in another country, certified English translations are required.
+
+**Source:** [NCAA Initial-Eligibility Steps for International Students](https://www.ncaa.org/sports/2018/5/15/initial-eligibility-steps-for-international-students.aspx) | [NCAA International Academic Standards Guide](http://fs.ncaa.org/Docs/eligibility_center/International_Information/International_Guide.pdf)
+
+
+## Academic Requirements — What Your Kid Needs
+
+### Core Course Requirements (Division I)
+
+Athletes must complete **16 core courses** during grades 9-12 (US) / grades 10-12 + prep year (Canadian equivalent):
+
+| Subject | Required Courses |
+|---|---|
+| English | 4 years |
+| Math (Algebra I or higher) | 3 years |
+| Natural/Physical Science (including at least 1 lab science) | 2 years |
+| Social Science | 2 years |
+| Additional core courses (from English, Math, Science, Social Science, Foreign Language, Religion, or Philosophy) | 4 years |
+| **Total** | **16 core courses** |
+
+### The 10/7 Rule
+
+**10 of the 16 core courses must be completed before the start of grade 12 (US senior year).** Of those 10, at least **7 must be in English, Math, or Natural/Physical Science.**
+
+For Canadian students, this means the bulk of your core courses need to be done before your final year of high school or your prep year. Planning matters — you can't cram 16 courses into your last year.
+
+### GPA Requirements
+
+| Division | Minimum Core GPA |
+|---|---|
+| **Division I** | 2.3 (on a 4.0 scale) |
+| **Division II** | 2.2 (on a 4.0 scale) |
+
+**Important:** The NCAA calculates GPA using **only NCAA-approved core courses** — not your overall transcript GPA. A student could have a 3.5 overall GPA but a 2.1 core GPA if their non-core grades are pulling up the average. The core GPA is what matters.
+
+### Test Scores
+
+**No longer required** by the NCAA Eligibility Center as of 2023. The NCAA dropped the SAT/ACT requirement for D1 and D2 eligibility.
+
+**However:** Individual colleges may still require test scores for **admissions** (separate from eligibility) or for academic scholarships. Check with each school you're considering. Some schools are test-optional; others are not.
+
+### Canadian transcript evaluation
+
+The NCAA evaluates Canadian transcripts using their **International Academic Standards Guide** — a country-specific resource that maps Canadian coursework to NCAA requirements.
+
+Key things to know:
+- **Not all Canadian courses count as NCAA core courses.** Your school may offer courses that satisfy provincial graduation requirements but don't qualify as NCAA core courses.
+- **Each province is different.** Alberta, Ontario, BC, and Quebec all have different curriculum structures. The NCAA evaluates each province's courses individually.
+- **Verify early.** Check whether your kid's courses map to NCAA-approved core courses BEFORE grade 12, not after. If there are gaps, you have time to fill them.
+- **Your school guidance counselor may not know.** Many Canadian high school counselors are unfamiliar with NCAA requirements. You may need to be the expert in the room — or work with someone who specializes in NCAA eligibility for Canadian students.
+
+**Recommendation:** Contact the NCAA Eligibility Center directly to verify how your specific province's courses are evaluated. Don't assume your school knows. Phone: 877-262-1492 (Monday-Friday, 9am-5pm Eastern). International students can also use the [International Contact Form](https://web3.ncaa.org/ecwr3/).
+
+
+## Amateurism Requirements
+
+The NCAA requires that student-athletes maintain **amateur status** to be eligible. This means:
+
+- You have NOT received payment for playing basketball (beyond actual and necessary expenses)
+- You have NOT signed a professional contract or played on a professional team
+- You have NOT received improper benefits from an agent, booster, or organization
+- You have NOT agreed to be represented by an agent
+
+### What Canadian families should watch for
+
+- **Playing on a circuit team does not violate amateurism** — grassroots/AAU basketball is amateur
+- **Prep school basketball does not violate amateurism** — as long as the program is structured as a secondary school, not a professional team
+- **Receiving gear from a sponsored program** (Nike EYBL gear, etc.) is generally accepted — but if you're unsure about a specific benefit, check with the Eligibility Center
+- **NIL (Name, Image, and Likeness)** — current NCAA rules allow college athletes to earn from NIL. But pre-enrollment NIL arrangements can get complicated. If anyone is offering your kid money or benefits before they're enrolled in college, proceed with extreme caution and verify with the Eligibility Center.
+
+**The amateurism verification process can take longer for international students.** Start early and be proactive about submitting your amateurism questionnaire.
+
+
+## The Eligibility Clock — How It Works
+
+Once your kid enrolls full-time at an NCAA school, the eligibility clock starts. Understanding how it works is essential for planning.
+
+### Division I
+
+- **4 seasons of competition** within a **5-year window** (sometimes called the "5-year clock")
+- The clock starts at **first full-time enrollment** at any collegiate institution — NCAA, NAIA, junior college, or international equivalent
+- Each year that passes consumes one of the 5 calendar years, **whether or not the athlete competes**
+- **Redshirting** = sitting out of competition for a season while practicing with the team. This preserves one of the 4 seasons of competition but uses one of the 5 calendar years.
+
+### What starts the clock
+
+| Action | Does it start the clock? |
+|---|---|
+| Enrolling full-time at an NCAA school | **Yes** |
+| Enrolling at a junior college (JUCO) | **Yes** |
+| Enrolling at a USports (Canadian university) program | **Yes** — USports enrollment typically counts as collegiate enrollment |
+| Attending a Canadian prep school (post-grad year) | **No** — prep schools are classified as secondary education, not collegiate |
+| Attending a US prep school (post-grad year) | **No** — same as above |
+| Playing on a grassroots/circuit team | **No** |
+| Playing on a Canada Basketball national team | **No** |
+
+### Why the prep year matters for the clock
+
+This is one of the most important things for Canadian families to understand: **a prep year does NOT start the NCAA eligibility clock.** Your kid can spend a year (or even two) at a prep school developing, competing, and getting recruited without burning any of their 4 seasons or 5-year window.
+
+This is a significant advantage of the Canadian prep pathway. A player who goes:
+- Grade 12 → Prep year → NCAA
+...starts their 5-year clock as a more developed, more physically mature player with more exposure — and they haven't lost any eligibility.
+
+### Redshirting
+
+A redshirt year means the player:
+- Is enrolled full-time and on the team
+- Practices with the team
+- Does NOT compete in games (or competes in a very limited number — check current rules on redshirt eligibility)
+- Uses one of the 5 calendar years but preserves one of the 4 competition seasons
+
+**Practical example:** A player who enrolls, redshirts Year 1, then competes for 4 seasons uses all 5 years (1 redshirt + 4 competing). A player who competes immediately gets 4 seasons in 4 years with 1 year remaining if needed.
+
+### Medical hardship waivers and other exceptions
+
+If a player is injured or has other qualifying circumstances, they can petition for additional eligibility. These are evaluated case by case.
+
+
+## Division II and Other Divisions
+
+### Division II
+- **4 seasons of competition** within a **10-semester or 15-quarter window** (more flexible than D1)
+- Academic requirements: 16 core courses, 2.2 core GPA
+- The eligibility structure is similar to D1 but with more flexibility on timing
+
+### Division III
+- **No NCAA Eligibility Center registration required**
+- Eligibility is determined by the individual school
+- D3 does not offer athletic scholarships — financial aid is need-based or academic
+- Still a legitimate competitive option for players who want to play college basketball without the scholarship/recruiting pressure
+
+### NAIA
+- Separate from the NCAA entirely
+- Has its own eligibility center and requirements
+- Generally more flexible academic requirements
+- Offers athletic scholarships
+- Worth considering, especially for players who may not meet NCAA D1/D2 academic requirements
+
+
+## Common Mistakes Canadian Families Make
+
+Based on what we've heard from families and advisors who've been through this process:
+
+1. **Assuming your school counselor knows NCAA requirements.** Most Canadian high school counselors have never dealt with NCAA eligibility. You need to verify course mapping yourself or work with a specialist.
+
+2. **Not registering early enough.** Registration doesn't start the clock — it just gets your information into the system. Register early and you have time to fix issues. Register late and you're scrambling.
+
+3. **Not verifying that courses count as core courses.** Taking 4 years of English in Alberta doesn't automatically mean those courses map to NCAA core English. Verify each course against the approved list for your province.
+
+4. **Forgetting transcripts from every school.** If your kid attended multiple schools (including a reclassification year at a different school), ALL transcripts are needed. Missing transcripts = delayed processing.
+
+5. **Ignoring the amateurism questionnaire.** This isn't just a checkbox — it requires honest disclosure of your basketball activities. International student verification takes longer. Start early.
+
+6. **Assuming a verbal offer means eligibility is handled.** A college coach offering your kid a scholarship does NOT mean the Eligibility Center has cleared them. These are separate processes. A player can have a full-ride offer and still be declared ineligible.
+
+7. **Not understanding the clock.** If your kid enrolls at a USports school "just to try it" and then wants to transfer to an NCAA program, the eligibility clock has already started. Every year of collegiate enrollment counts, even at a non-NCAA school.
+
+
+## Step-by-Step Checklist for Canadian Families
+
+### Grade 9-10 (Alberta) / US Grade 9 (Freshman)
+- [ ] Register with the [NCAA Eligibility Center](https://web3.ncaa.org/ecwr3/) — Academic and Athletics Certification account ($170 international fee)
+- [ ] Review the NCAA-approved core course list for your province
+- [ ] Confirm your kid's course selections map to NCAA core courses — talk to the school and verify independently
+- [ ] Start tracking core course grades — the NCAA core GPA is what matters, not overall GPA
+
+### Grade 10-11 (Alberta) / US Grades 10-11 (Sophomore-Junior)
+- [ ] Ensure core courses are on track — 10 of 16 must be done before senior year (the 10/7 rule)
+- [ ] Complete the amateurism questionnaire through your Eligibility Center account
+- [ ] Request that your school send official transcripts to the Eligibility Center (after each school year)
+- [ ] If considering schools that require SAT/ACT, prepare for and take the tests
+- [ ] Begin filling out recruiting questionnaires and contacting college programs (no restrictions on player-initiated contact)
+
+### Grade 12 (Alberta) / US Grade 12 (Senior)
+- [ ] Ensure all 16 core courses will be completed by graduation
+- [ ] Verify core GPA meets minimum requirements (2.3 for D1, 2.2 for D2)
+- [ ] Send final transcripts to the Eligibility Center after graduation
+- [ ] If doing a prep year: confirm the prep school's academic program is recognized by the Eligibility Center. Get this in writing.
+
+### Prep Year
+- [ ] Ensure prep school courses are accredited and that credits are recognized
+- [ ] Send prep school transcripts to the Eligibility Center
+- [ ] Stay in contact with college programs — this is your primary recruiting window
+- [ ] Confirm final eligibility clearance before enrollment at your NCAA school
+
+
+## Key Takeaways
+
+1. **Register early, don't wait.** The Eligibility Center account doesn't start the clock — it just gets your information ready. Register before grade 10 (Alberta) if possible.
+2. **You're classified as an international student.** This affects your fee ($170 vs $110), how your transcripts are evaluated, and how long amateurism verification takes.
+3. **Not all Canadian courses count.** Verify every course against the NCAA-approved list for your province. Your school counselor may not know — you need to be the expert.
+4. **Core GPA is what matters.** The NCAA uses only approved core courses to calculate GPA, not your overall transcript. A 2.3 minimum for D1, 2.2 for D2.
+5. **SAT/ACT no longer required for eligibility** (as of 2023), but individual schools may still require them for admissions.
+6. **The prep year does NOT start the eligibility clock.** This is one of the biggest advantages of the Canadian pathway.
+7. **A scholarship offer ≠ eligibility clearance.** These are separate processes. Don't assume one handles the other.
+8. **USports enrollment DOES start the clock.** If your kid enrolls at a Canadian university and then wants to transfer to NCAA, the clock is already running.
+9. **Start planning courses in grade 9-10, not grade 12.** The 10/7 rule means most core courses need to be done before senior year. Retroactive fixes are hard.
+
+
+## Sources
+
+- [NCAA Eligibility Center](https://web3.ncaa.org/ecwr3/) — registration portal
+- [NCAA Initial-Eligibility Steps for International Students](https://www.ncaa.org/sports/2018/5/15/initial-eligibility-steps-for-international-students.aspx)
+- [NCAA International Academic Standards Guide (PDF)](http://fs.ncaa.org/Docs/eligibility_center/International_Information/International_Guide.pdf)
+- [NCSA: NCAA Eligibility Rules & Academic Requirements](https://www.ncsasports.org/ncaa-eligibility-center/eligibility-requirements)
+- [NCSA: NCAA Eligibility Center Registration](https://www.ncsasports.org/ncaa-eligibility-center/register)
+- [NCAA Division I Academic Standards Fact Sheet (PDF)](http://fs.ncaa.org/Docs/eligibility_center/Student_Resources/DI_ReqsFactSheet.pdf)
+
+
+## Help Us Get It Right
+
+NCAA requirements change, and navigating them as a Canadian family has unique challenges that aren't well-documented. If you've been through the Eligibility Center process as a Canadian student-athlete and have insights, tips, or corrections, we want to hear from you. Especially:
+- Which Alberta courses map to NCAA core courses (and which don't)
+- How long the amateurism verification actually takes for Canadians
+- Any surprises or gotchas in the transcript evaluation process
+- Experiences with prep school credits being accepted or rejected
+
+The more families share their experience, the better this guide gets for everyone.
+
+
+*This guide is part of the Canadian Basketball Pathway series. Last updated April 2026. NCAA rules change frequently — verify current requirements at [ncaa.org](https://ncaa.org) and the [NCAA Eligibility Center](https://web3.ncaa.org/ecwr3/).*

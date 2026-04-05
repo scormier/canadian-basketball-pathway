@@ -1,0 +1,187 @@
+---
+title: Eligibility Rules
+description: Age, grade, residency, and geographic eligibility rules for grassroots basketball circuits.
+---
+
+# Eligibility Rules
+
+Grassroots basketball has rules about who can play, where they can play, and at what age. These rules vary by circuit but follow common principles. Understanding them helps you avoid surprises — and helps you spot programs that might be bending the rules.
+
+This guide covers the general principles and provides specific examples from Nike (EYBL, EYCL, Jr EYBL) and Adidas (3SSB, Jr 3SSB) where we have official documentation.
+
+
+## Age & Grade Eligibility
+
+Most circuits use a **combined age AND grade model** — a player must be in the correct grade AND under the age cutoff for that division. You have to meet both criteria.
+
+### The Combined Age + Grade Model
+
+The standard pattern across major circuits (Nike and Adidas) looks like this:
+
+| Division | US Grade | Canadian Grade* | Age Cutoff (typical) |
+|---|---|---|---|
+| 13U / 7th Grade | 7th grade | 8th grade | Can't turn 15 before Aug 1 |
+| 14U / 8th Grade | 8th grade | 9th grade | Can't turn 16 before Aug 1 |
+| 15U / 9th Grade | 9th grade | 10th grade | Can't turn 17 before Aug 1 |
+| 16U / 10th Grade | 10th grade | 11th grade | Can't turn 18 before Aug 1 |
+| 17U / 11th Grade | 11th grade | 12th grade | Age varies; some circuits allow up to 2 unsigned 12th graders |
+
+*\*Canadian grades are one ahead. See the [Reclassification Guide](/schools/reclassification) for a detailed explanation of the CAN/US grade mapping.*
+
+**The August 1 cutoff** is the most common date — if a player's birthday falls before August 1 and would push them over the age limit, they're ineligible for that division regardless of what grade they're in.
+
+### What the official rules say
+
+**Nike Jr EYBL** ([source: 2024 Jr EYBL Official Rulebook](https://static1.squarespace.com/static/6424e90908526c3da2f286b4/t/66060fd456e8210d7b669844/1711673300194/2024+JR+EYBL+Official+Rule+Book+.pdf)):
+> *"A player is eligible to compete if his 16th birthday falls after the end of the Jr. EYBL Championships (8/1/24) and the athlete is enrolled in the 8th Grade."*
+
+- Combined age AND grade — must meet both
+- Birth certificate AND report card required at check-in
+- **Fine for violations:** $1,000 per ineligible player + forfeiture of all games played
+
+**Adidas Jr 3SSB** ([source: 2025 Jr 3SSB Rules](https://adidas3ssb.com/wp-content/uploads/2025/02/junior-rules-2025.pdf)):
+> *"Players are eligible to participate in the grade level they are enrolled in for the current school year."*
+
+- Grade is the primary criterion in the published rules
+- Exceptions for playing in a lower grade division require a formal request to the regional lead at least one week before the event
+- At the HS level, Adidas also adds age limits (19th birthday cutoff)
+- The HS-level age+grade breakdown (15U/9th, 16U/10th, 17U/11th) is consistent with the combined model, though we couldn't locate Adidas's specific age cutoff dates in published documentation
+
+### What this means for Canadian families
+
+- **The Canadian grade offset matters.** A Canadian kid in grade 9 maps to the US 8th grade. This affects which division they're eligible for. Make sure your program director has this mapped correctly.
+- **Bring documentation.** Birth certificates and report cards/proof of enrollment are standard requirements at check-in. Don't show up without them.
+
+### A Reality Check on Enforcement
+
+While eligibility rules exist and violations carry serious penalties ($1,000 fines, game forfeitures), **enforcement is imperfect.** Ineligible players do show up at circuit events — sometimes in ways that are pretty egregious. Age fraud, grade manipulation, and residency bending happen.
+
+This doesn't mean you should ignore the rules. It means:
+- **Your program should be compliant.** Getting caught isn't worth the risk — fines, forfeitures, and potential removal from the circuit.
+- **Don't be surprised when you see it.** Your 14U team may face a kid who's clearly older. It's frustrating, but it's part of the landscape.
+- **Coaches can protest.** Nike allows formal protests of age eligibility or adjoining state compliance ($100 protest fee, refunded if upheld). If something looks wrong, your coach has a mechanism to challenge it.
+
+
+## Residency & Geographic Boundaries
+
+This is where it gets important — and where Canadian families need to pay attention.
+
+### The Adjoining State Rule (US Players)
+
+For US-based players, sneaker circuits enforce geographic boundaries: **a player must live or attend school in the team's assigned geographic area or an adjoining (bordering) state.**
+
+**Nike Jr EYBL — official rule text** ([source: 2024 Jr EYBL Rulebook, Section I.E](https://static1.squarespace.com/static/6424e90908526c3da2f286b4/t/66060fd456e8210d7b669844/1711673300194/2024+JR+EYBL+Official+Rule+Book+.pdf)):
+> *"The Jr. EYBL will follow 'NCAA Open Period Rules' for eligible players in regard to their residence. All players must CURRENTLY live or go to school in a travel team's assigned area or an adjoining state. A promise of a future move is not acceptable. Any exceptions to this require a letter of approval from the NCAA."*
+
+And from Section II.A:
+> *"Each team must adhere to their NCAA geographic boundaries."*
+
+Key details:
+- This rule references **NCAA geographic boundaries** — Nike is applying the NCAA's framework to its grassroots circuit
+- Players must **currently** live or attend school in the area — future plans don't count
+- Violations result in a **$1,000 fine per player + forfeiture of all games** the ineligible player competed in
+- Coaches can formally **protest** a player's adjoining state compliance ($100 protest fee, refunded if upheld)
+- Changing teams between circuits is "strongly frowned upon" and limited to once per season, before Session 2
+
+### How This Works for Canadian Players
+
+Canadian players ARE eligible to play for US-based circuit teams. But there are geographic restrictions — and this is where we need to be transparent about what we know, what we've seen enforced, and what we can't officially cite.
+
+**What we know from the rulebook:**
+- The Jr EYBL rulebook's international player section (I.C) establishes that foreign players' residency is determined by parent/legal guardian residence or the school they attend. It does not explicitly describe how the adjoining state rule maps to Canadian players.
+
+**What is widely understood and enforced in practice:**
+- Canadian players can play for teams based in **US states that directly border Canada** — not any US team
+- The 13 states that border Canada: Washington, Idaho, Montana, North Dakota, Minnesota, Wisconsin, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, Maine (plus Alaska)
+- **This rule IS enforced.** We are aware of at least one instance where Nike declared a Canadian player (from Alberta) ineligible to play for a team based in Oregon — a state that does NOT border Canada (Washington sits between Oregon and the Canadian border). This is consistent with a "border states only" interpretation.
+
+**What we have NOT been able to find:**
+- An official written Nike or NCAA document that explicitly states "Canadian players may only play for teams in states bordering Canada." This appears to be an enforced policy that isn't published in the publicly available rulebook.
+
+**The practical implication for Canadian families:**
+- If a US-based team from a **border state** (Washington, Montana, North Dakota, Minnesota, Michigan, New York, etc.) reaches out — you're likely eligible
+- If a US-based team from a **non-border state** (Oregon, California, Texas, Florida, etc.) reaches out — confirm eligibility before committing time and money
+- **Always verify directly with the circuit.** Don't assume. Getting declared ineligible after you've paid fees and traveled is the worst outcome.
+
+### Adidas Residency Rules
+
+**The Adidas Jr 3SSB rules we reviewed do not include explicit residency or geographic boundary requirements.** This doesn't mean they don't exist — they may be communicated separately to participating programs. If you're considering an Adidas circuit team, ask the program director about residency requirements before committing.
+
+
+## International Player Rules
+
+If you're a Canadian player looking to play on a US-based circuit team, there are additional requirements beyond residency.
+
+**What the Jr EYBL rulebook says about international players** (Section I.C):
+> *"A player that has moved into the United States to attend school MUST have been registered at the school and attending classes at the beginning (1st 30 days) of the academic school year prior to him being eligible to play during the Jr. EYBL season."*
+
+> *"A foreign/International player's residence is determined by parent or legal guardianship residence only. In lieu of that the international/foreign player'sresidency is determined as the school he is attending."*
+
+### Nike Jr EYBL International Player Requirements
+
+From the [2024 Jr EYBL Rulebook](https://static1.squarespace.com/static/6424e90908526c3da2f286b4/t/66060fd456e8210d7b669844/1711673300194/2024+JR+EYBL+Official+Rule+Book+.pdf):
+
+1. **School enrollment timing:** A player who has moved to the US to attend school must have been registered and attending classes within the **first 30 days** of the academic school year
+2. **Documentation required:** Proof of residence, school enrollment, and NCAA approval must be submitted before participation
+3. **Residency determination:** Based on parent or legal guardian residence. If the player doesn't live with a parent/guardian, residency is determined by the school they attend
+4. **Fine for violations:** $1,000 + forfeiture of all games played
+
+### What this means for Canadian players
+
+- If your kid is playing for a US team while **living and attending school in Canada**, the international player rules apply. The specifics of how Canadian-resident players are handled (vs. players who've moved to the US) should be confirmed with the circuit directly.
+- If your kid has **moved to the US** for school (e.g., attending a US prep school), they need to have been enrolled within the first 30 days of the school year.
+- **"NCAA approval"** is referenced in the rules — this suggests the NCAA Eligibility Center may need to be involved even at the grassroots level for international players. Verify this with your program director.
+
+
+## NCAA Live Periods — A Brief Overview
+
+Eligibility rules and live periods are connected: circuits schedule their events during NCAA live periods specifically so college coaches can attend and evaluate players.
+
+**What are live periods?** Designated windows in the NCAA recruiting calendar when college coaches are permitted to watch prospects compete in person.
+
+**When do they happen?**
+- **Spring (April):** Evaluation weekends — sneaker circuit sessions are deliberately scheduled during these windows
+- **Summer (July):** The marquee evaluation period. Circuit championships and finals cluster here. July is historically the most important month for recruiting evaluation.
+
+**Why this matters for eligibility:** The combination of residency rules + live period scheduling means that being on a circuit team that plays during live periods is what creates real exposure. Playing outside of live periods means fewer (or no) college coaches in the stands.
+
+For a deeper dive on live periods, recruiting timelines, and when offers are real, see the Recruiting Reality guide.
+
+
+## Quick Reference — Key Rules by Circuit
+
+| Rule | Nike Jr EYBL | Adidas Jr 3SSB |
+|---|---|---|
+| **Age eligibility** | Combined age + grade model (e.g., 14U/8th: can't turn 16 before Aug 1 AND enrolled in 8th grade) | Grade-based primary; age limits apply at HS level. Combined model likely at Jr level. |
+| **Residency** | Must live or attend school in team's area or adjoining state (NCAA geographic boundaries) | Not explicitly documented in published rules |
+| **International players** | Must be enrolled in US school within first 30 days of academic year; parent/guardian residency required | Not explicitly documented in published rules |
+| **Documentation** | Birth certificate + report card at check-in | Not specified in published rules |
+| **Violation penalty** | $1,000 fine + forfeiture of all games | Not specified in published rules |
+| **Team changes** | Once per season, before Session 2, with approval | Not specified in published rules |
+
+**Note:** The Adidas rules we reviewed were less detailed on eligibility. This doesn't mean Adidas has no rules — they may be communicated through other channels. Always verify with your program director.
+
+
+## Key Takeaways
+
+1. **Know the rules before you commit.** Age cutoffs, grade requirements, and residency rules vary by circuit. Don't assume — ask.
+2. **Reclassified players need extra attention.** Circuits that use both age AND grade requirements (like Nike) add complexity for reclassified players. Understand how your kid's reclassification status interacts with each circuit's eligibility rules.
+3. **The adjoining state rule is real and enforced — including for Canadians.** Nike circuits enforce geographic boundaries with $1,000 fines and game forfeitures. Canadian players appear to be limited to teams in US states that directly border Canada. We've seen this enforced in practice (Alberta player declared ineligible for an Oregon-based team), even though the specific Canadian rule isn't in the published rulebook. Verify with the circuit before committing.
+5. **Bring your documents.** Birth certificates and proof of enrollment are required at check-in. Don't show up without them.
+6. **Circuits schedule around NCAA live periods.** This is why circuit access matters for exposure — it puts your kid in front of college coaches during the windows when they're allowed to evaluate.
+
+
+## Sources
+
+- [2024 Jr EYBL Official Rulebook](https://static1.squarespace.com/static/6424e90908526c3da2f286b4/t/66060fd456e8210d7b669844/1711673300194/2024+JR+EYBL+Official+Rule+Book+.pdf) — Nike Jr EYBL rules and regulations
+- [2025 Jr 3SSB Rules](https://adidas3ssb.com/wp-content/uploads/2025/02/junior-rules-2025.pdf) — Adidas Jr 3SSB eligibility guidelines
+- [2026 Jr EYBL Overview PDF](https://drive.google.com/drive/u/0/folders/1-TpVOxtSy3WRDcy3hE6WLnoA-vs0Zed-) — Nike Jr EYBL structure and team lists
+- [Nike Jr EYBL Open Events](https://nikeeyb.com/jreybl-open-events) — Open event schedule and structure
+
+
+## Help Us Get It Right
+
+Eligibility rules change, and not all of them are publicly documented. If you have official documentation — especially regarding residency rules for Canadian players, Adidas geographic boundaries, or HS-level (15U-17U) eligibility requirements — we'd love to include it. The goal is to give families accurate, sourced information they can rely on.
+
+
+*This guide is part of the Canadian Basketball Pathway series. Last updated April 2026. Rules change by season — verify current eligibility requirements directly with your circuit and program director.*

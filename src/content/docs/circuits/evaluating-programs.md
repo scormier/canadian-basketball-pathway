@@ -1,0 +1,190 @@
+---
+title: Evaluating Programs & Teams
+description: How to evaluate basketball programs when they reach out to recruit your kid.
+---
+
+# Evaluating Programs & Teams
+
+A program reaches out about your kid. They want them to play on their team. It sounds exciting — maybe even flattering. But before you commit time and money, you need to know what you're actually getting.
+
+This guide gives you a framework for evaluating any grassroots basketball program, whether they reached out to you or you're shopping for the right fit.
+
+
+## How It Usually Starts
+
+Typically, a coach or program director contacts your player directly — usually via **Instagram DM**. The message will express interest in the player, share some information about the program, and ask to speak with the parents.
+
+This is normal. It's how grassroots basketball recruiting works at the club/travel level. But the fact that someone reached out doesn't mean it's the right fit. Lots of programs recruit lots of kids. Your job is to figure out whether this specific opportunity is worth your kid's time and your family's money.
+
+
+## The Questions You Should Ask
+
+When a program reaches out, here's what to ask — and what the answers tell you.
+
+### 1. What circuits or tournaments do you play on?
+
+This is the single most important question. The answer tells you:
+- **The level of competition** your kid will face
+- **The exposure** they'll get (college coaches, scouts, media)
+- **The program's standing** in the grassroots ecosystem
+
+What you're listening for:
+- **Strong answer:** "We're on the official Jr EYBL circuit" / "We compete in Nike EYCL" / "We play MADE Hoops Circuit and Prep Hoops events." They can name specific circuits and explain the level.
+- **Weak answer:** "We go to a lot of tournaments" / "We play in showcases" / vague references to brands without specifics. If they can't name circuits clearly, dig deeper.
+- **Red flag:** "We have a Jr EYBL team" — ask if they're on the **official circuit** or entering **Open Events**. These are very different things. (See the [Sneaker Circuits guide](/circuits/sneaker-circuits) for the full breakdown.)
+
+### 2. Are you a sponsored program? What partnerships do you have?
+
+Being a sponsored (brand-affiliated) program is generally a signal of quality and legitimacy — it means a shoe brand has vetted the program and chosen to partner with them. But sponsorship means different things at different tiers.
+
+What you're listening for:
+- **Which brand and which tier?** Nike EYBL is very different from Nike EYCL. Adidas 3SSB is different from 3SGB. The brand name alone isn't enough — ask which specific circuit.
+- **What does the sponsorship include?** EYBL programs receive full gear. EYCL programs typically don't. Sponsorship doesn't automatically mean free shoes and jerseys.
+- **Non-sponsored programs can still be good.** Many legitimate programs compete in independent circuits (MADE Hoops, Prep Hoops, etc.) without shoe brand sponsorship. Being unsponsored isn't a red flag — but the program should be able to articulate what circuits they compete in and why.
+
+### 3. What's the cost? What do we get for it?
+
+This is where most families get tripped up. Ask for a clear breakdown.
+
+**What to expect in team fees (not including travel):**
+- Fees vary widely — from ~$1,000 to $5,000+ depending on the program and circuit level.
+- At the lower end (~$1,000-$2,000), you should expect: a roster spot, access to the circuit/tournament schedule, some gear, and coaching.
+- At the higher end ($3,000-$5,000+), you should be getting significantly more — premier circuit access, extensive gear packages, training camps, film services, etc.
+- **Fees above $3,000 deserve scrutiny.** Ask exactly where the money goes. A well-run program can explain their budget clearly.
+
+**What's typically included vs. extra:**
+- **Included:** Team fees, circuit entry, basic gear (jersey, shorts), coaching
+- **Often extra:** Travel (flights, hotels, meals), additional gear, private training, film/highlight services
+- **Travel is almost always on the family.** This is the biggest cost — $1,500-$3,000+ per trip, 3-5 trips per season. Make sure you understand the full travel schedule before committing.
+
+**Red flag:** If a program can't clearly articulate where your money goes and what you're getting in return, that's a problem. You're making a significant financial commitment — you deserve transparency.
+
+### 4. What's the program's focus? Development or wins?
+
+This matters more than most parents realize, especially at the middle school and early high school level.
+
+What you're listening for:
+- **Development-focused:** The program talks about player growth, skill development, basketball IQ, preparing players for the next level. They prioritize long-term outcomes over tournament trophies.
+- **Win-focused:** The program talks mostly about their record, championships won, rankings. Winning feels good, but programs that optimize for winning at 13-14 often sacrifice individual development (shorter rotations, less experimentation, system-dependent play).
+- **The best programs do both** — they compete hard AND develop players. But if forced to choose, development-first programs tend to produce better long-term outcomes.
+
+### 5. Who are the coaches? What's their background?
+
+Coaching quality is one of the hardest things to evaluate from the outside, but you can still ask useful questions:
+
+- **What's their playing background?** Not required, but relevant context.
+- **What's their coaching experience?** Have they coached at the college level, prep school level, or only grassroots? How long?
+- **Do they have relationships with college coaches?** This matters for recruiting down the line.
+- **What's their coaching philosophy?** Do they talk about development, decision-making, and preparing players for the next level? Or is it all about schemes and winning?
+- **Can you watch a practice or game before committing?** Any legitimate program should welcome this.
+
+**Brief coaching quality checklist:**
+- Do they develop all players on the roster, or just the top 2-3?
+- Is practice organized and purposeful, or chaotic?
+- Do they teach the game (reads, decision-making, IQ) or just run plays?
+- How do they handle adversity and losing? Composure matters.
+- Do they communicate with parents clearly and professionally?
+
+### 6. What are some program successes or highlights?
+
+You're looking for **where players have gone after this program** — not how many tournaments they've won.
+
+- **Strong answer:** "Several of our alumni are playing D1" / "Players from our program have gone on to [specific schools or prep programs]" / "Here are some names you can look up."
+- **Weak answer:** "We won the XYZ tournament" / talking only about team results, not player development outcomes.
+- **Ask for names.** A program with a real track record can point to specific players and where they ended up. If they can't, that tells you something.
+
+### 7. What role are you looking to fill?
+
+No program can guarantee playing time — but you can understand the situation before committing.
+
+- **What position or role are they recruiting your kid for?**
+- **Who currently plays that position?** How many players are competing for those minutes?
+- **What's the typical rotation?** How many players get meaningful minutes per game?
+- **What's the roster size?** 15 players with 8 getting real minutes means 7 kids are paying the same fees to mostly watch.
+
+This isn't about demanding a starting spot. It's about understanding whether your kid will get genuine development opportunities or ride the bench at a premium price.
+
+
+## Red Flags — When to Walk Away
+
+Not every program that reaches out deserves your kid's time. Here are the warning signs:
+
+### The program is unnecessarily expensive
+- Fees over $3,000 (before travel) without a clear explanation of where the money goes.
+- Asking for money upfront before you've had a real conversation about the program.
+- Hidden costs that emerge after you've committed.
+
+### Your kid doesn't play
+- This is the most common complaint. Parents pay significant money and their kid sits on the bench.
+- Ask about roster size and rotation before committing. If a team carries 15 players and plays 8, do the math.
+- Development happens through playing, not watching. A slightly lower-level team where your kid plays 25+ minutes is often better than a top team where they play 8.
+
+### The coaching is subpar
+- Coaches who yell more than they teach.
+- No practice structure — just showing up to games.
+- Individual basketball focus (1v1, iso plays) without teaching team concepts, reads, and decision-making.
+- Coaches who can't articulate a development philosophy beyond "we compete hard."
+
+### It's all individual basketball
+- A program that runs isolation plays for their best player isn't developing the other 10 kids on the roster.
+- Team-focused programs develop more complete players. Look for programs that teach off-ball movement, defensive rotations, passing, and basketball IQ.
+
+### They oversell exposure
+- "Your kid will be seen by D1 coaches" — at what events? During which live periods? Be specific.
+- "We'll get your kid recruited" — no program can guarantee this. Development is the path; recruiting is the outcome.
+- Any program making promises about scholarships or college placement is selling you something, not developing your kid.
+
+### They can't name where their alumni ended up
+- A program that's been around for more than a few years should have players who've moved on to high school circuits, prep schools, or college programs.
+- If they can't name specific players and outcomes, either they're too new (which is fine — just know that) or their track record doesn't support their marketing.
+
+
+## A Simple Evaluation Framework
+
+When you're comparing programs, score them across these dimensions:
+
+| Dimension | What to Evaluate | Weight |
+|---|---|---|
+| **Circuit access** | What level of competition will your kid face? | High |
+| **Coaching quality** | Do the coaches develop players, not just run a team? | High |
+| **Player development track record** | Where have alumni gone? What's the program's history? | High |
+| **Cost transparency** | Is the pricing clear and reasonable for what you get? | Medium |
+| **Playing time opportunity** | Will your kid get meaningful minutes? | Medium |
+| **Culture and values** | Is it team-first? Development-focused? How do they handle adversity? | Medium |
+| **Logistics** | Practice schedule, travel schedule, geographic fit | Medium |
+| **Brand/sponsorship status** | Sponsored programs are generally a positive signal, but not required | Low |
+
+**The hierarchy of what matters:**
+1. Will your kid develop as a player? (coaching + playing time + competition level)
+2. Is the cost reasonable for what you're getting?
+3. Does the program have a track record of producing players who advance?
+4. Everything else
+
+
+## Questions to Ask Yourself
+
+Before evaluating any program, be honest about where your kid is:
+
+- **What level is your kid actually at?** Not where you hope they'll be — where they are right now. A program that's too high means bench time; too low means they're not challenged.
+- **What are the goals?** Development? Exposure? Social experience? Fun? Be clear about what you're optimizing for.
+- **What can your family afford?** Factor in team fees AND travel. Don't overextend financially on a bet that your kid will "make it." The vast majority of elite youth players do not receive full college scholarships.
+- **Is your kid ready for the commitment?** Circuit basketball means travel, time away from other activities, and pressure. Make sure your kid wants this — not just that you want it for them.
+
+
+## Key Takeaways
+
+1. **A program reaching out is not an endorsement.** Programs recruit broadly. It's your job to evaluate the fit.
+2. **Ask about circuits first.** The answer tells you more about the program's legitimacy than almost anything else.
+3. **Follow the money.** Know what you're paying, what you're getting, and where the money goes. If they can't explain it, walk away.
+4. **Development > wins.** Especially at the middle school and early high school level, choose programs that develop all their players, not just their stars.
+5. **Playing time is development time.** Your kid doesn't develop from the bench. Understand the roster situation before committing.
+6. **Ask for alumni outcomes.** Where players end up after the program is the real measure of its value — not tournament trophies.
+7. **Trust your instincts.** If something feels off — the sales pitch is too aggressive, the costs seem inflated, the coach can't answer basic questions — it probably is.
+
+
+## Help Us Get It Right
+
+Evaluating grassroots programs is hard, and the landscape varies by region. If you've had experiences — good or bad — that could help other families make better decisions, we want to hear from you. The goal is to give Canadian families honest, practical guidance. Your input makes this better.
+
+
+*This guide is part of the Canadian Basketball Pathway series. Last updated April 2026.*

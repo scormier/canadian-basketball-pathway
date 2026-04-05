@@ -1,0 +1,266 @@
+---
+title: Recruiting Reality
+description: NCAA live periods, when offers are real, and how recruiting actually works for Canadian players.
+---
+
+# Recruiting Reality
+
+There's a lot of noise in the basketball recruiting world — social media "offer" announcements, parents claiming their 8th grader has D1 interest, programs promising exposure that never materializes. This guide cuts through it with the actual rules, realistic timelines, and honest context about how recruiting works for Canadian players.
+
+
+## NCAA Recruiting Periods — When Coaches Can Watch and Contact
+
+The NCAA divides the year into specific periods that govern what college coaches can and can't do. Understanding these periods explains why sneaker circuits schedule events when they do — and why playing during certain windows matters more than others.
+
+### The Four Period Types
+
+| Period | What Coaches Can Do | What They Can't Do |
+|---|---|---|
+| **Evaluation Period** | Watch prospects compete in person at approved events | Have off-campus face-to-face contact with recruits |
+| **Contact Period** | Meet recruits in person almost anywhere — on campus, at school, at home | Few restrictions on in-person contact |
+| **Quiet Period** | Meet recruits in person, but only on the coach's college campus | Travel to watch recruits compete or visit them off-campus |
+| **Dead Period** | Communicate by phone, email, text, or digital platforms only | Any face-to-face contact, on or off campus |
+
+### When Do Live Evaluation Periods Happen?
+
+The key evaluation windows for D1 men's basketball:
+
+- **Summer (June-July):** The primary evaluation window. This is when the major sneaker circuit sessions and championships take place. July is historically the most important month for in-person recruiting evaluation.
+- **Academic year:** During the school year, live evaluations are limited to regularly scheduled high school, prep school, and two-year college games/practices. This is where EYBL Scholastic and prep school leagues (NPH, NPA) draw coaching attention.
+
+**Why this matters:** Sneaker circuits deliberately schedule their sessions during NCAA evaluation periods. This is the entire business model — circuits guarantee that college coaches will be in the building because the NCAA calendar allows them to be there. Playing outside of evaluation periods means fewer (or no) college coaches watching.
+
+### Typical Annual Recruiting Calendar
+
+The NCAA publishes an updated recruiting calendar each year. The general pattern is consistent, but **specific dates shift annually** — always verify the current year's calendar at the [official NCAA recruiting calendar page](https://www.ncaa.org/sports/2018/5/8/division-i-and-ii-recruiting-calendars.aspx).
+
+| Period | Typical Timing | What It Means |
+|---|---|---|
+| Evaluation Period | Mid-June through July | **Peak recruiting evaluation window.** Circuit championships, Peach Jam, finals events. Coaches are watching. |
+| Quiet Period | August – early September | Coaches can only meet recruits on campus. Good window for unofficial visits. |
+| Recruiting/Contact Period | September through April (with exceptions) | Coaches can contact recruits directly (with restrictions by grade — see below). |
+| Dead Periods | Several short windows during the academic year (typically November, January, February, and around the NCAA tournament in April) | No in-person contact. Coaches are focused on their own seasons. |
+| Quiet Period | Early June | On-campus only. Precedes the summer evaluation window. |
+
+**Note:** The NCAA publishes the exact dates for each season. Check the [official calendar](https://www.ncaa.org/sports/2018/5/8/division-i-and-ii-recruiting-calendars.aspx) for the current year's specific dates.
+
+
+## When Can Coaches Contact Your Kid?
+
+The NCAA has specific rules about when coaches can initiate contact with recruits. This is important because it sets the timeline for when "interest" becomes "real."
+
+### US-to-Canadian Grade Translation
+
+Since these rules use US grade terminology, here's the mapping for Canadian families:
+
+| US Term | US Grade | Canadian (Alberta) Grade | Canadian Level |
+|---|---|---|---|
+| Freshman | 9th grade | Grade 10 | HS Year 1 |
+| Sophomore | 10th grade | Grade 11 | HS Year 2 |
+| Junior | 11th grade | Grade 12 | HS Year 3 |
+| Senior | 12th grade | Prep year (post-grad) | Post-secondary prep |
+
+*Remember: grade 9 is junior high in Alberta but high school in the US. This shifts everything by one year. See the [Reclassification Guide](/schools/reclassification) for the full explanation.*
+
+### The Contact Timeline
+
+| Milestone | US Grade | Canadian Grade | What Happens |
+|---|---|---|---|
+| **Before June 15 after sophomore year** | Before end of 10th grade | Before end of grade 11 | Coaches CANNOT initiate calls, texts, or emails. They can send general recruiting materials (camp brochures, questionnaires) but not personalized contact. |
+| **June 15 after sophomore year** | After 10th grade | After grade 11 | Coaches can begin directly contacting recruits — calls, texts, emails, DMs. This is when the floodgates open for high-profile prospects. |
+| **September 1 of junior year** | Start of 11th grade | Start of grade 12 | Full contact is permitted. Coaches can call, text, and have off-campus contact during contact periods. |
+| **Throughout junior and senior year** | 11th-12th grade | Grade 12 + prep year | Active recruiting, official visits (limited number), in-home visits during contact periods. |
+
+### What This Means Practically
+
+- **If your 8th grader says a D1 coach is "talking to them"** — the coach is not allowed to initiate contact yet. What's actually happening is likely: the coach communicated interest through a third party (AAU coach, camp invite, general mailing), or the family reached out first (which is allowed at any time).
+- **The June 15 after sophomore year date is when real direct recruiting begins.** For Canadian families, that's after your kid finishes grade 11 (Alberta HS Year 2). Everything before that is relationship-building through intermediaries.
+- **Your kid can reach out to coaches at any time.** There are no restrictions on when a prospect can contact a college program. Filling out recruiting questionnaires, emailing coaches, and attending camps is always allowed.
+
+
+## When Are Offers Real?
+
+This is the single biggest source of confusion and misinformation in youth basketball. Let's be clear about what different "offers" actually mean.
+
+### Types of "Offers"
+
+#### Verbal Offer (Unofficial)
+- A coach tells a player, their family, or their AAU coach that they'd like them to play at their school.
+- **This is NOT binding on either party.** The coach can pull it. The player can ignore it.
+- Verbal offers happen as early as 8th grade for elite prospects.
+- A verbal offer is essentially: "We're interested and we'd like to offer you a scholarship when we're allowed to." It's a statement of intent, not a commitment.
+
+#### Verbal Commitment
+- When a player publicly announces "I'm committing to [school]" — this is a verbal commitment.
+- **Also NOT binding.** Players decommit regularly. Schools can also withdraw the offer.
+- This is what you see on social media — the hat-picking announcements, the commitment graphics.
+- A verbal commitment means both sides intend to formalize the relationship, but nothing is signed.
+
+#### Committable Offer
+- An informal term (not official NCAA language) meaning the offer is "real" in the sense that if the player says yes right now, the school will follow through with the scholarship paperwork.
+- Not all verbal offers are committable. Some are expressions of interest with the expectation that the player will visit, develop further, etc.
+- **Ask your kid's coach or the college coach directly:** "Is this a committable offer?" The distinction matters.
+
+#### National Letter of Intent (NLI)
+- **This is the only binding document.**
+- Administered by the Collegiate Commissioners Association ([nationalletter.org](http://www.nationalletter.org))
+- Once signed, the player is bound to that school for one academic year, and the school is bound to provide the agreed-upon financial aid for one year.
+- **Players CANNOT sign an NLI until the official signing period.**
+
+### Signing Periods (D1 Men's Basketball)
+
+| Period | Typical Timing | What Happens |
+|---|---|---|
+| **Early Signing Period** | Mid-November of senior year (usually a 7-day window starting the Wednesday before US Thanksgiving) | The earliest a player can sign a binding NLI |
+| **Regular Signing Period** | Mid-April through May of senior year | Second window for signing |
+
+**The earliest a player can sign anything binding is mid-November of their senior year.** Everything before that — verbal offers, verbal commitments, social media announcements — is non-binding.
+
+### Offers Can Be Rescinded. Players Can Decommit.
+
+This is uncomfortable but important: **nothing is guaranteed until the NLI is signed.**
+
+**Offers get rescinded (pulled by the school) for reasons including:**
+- Player's performance declines or development stalls
+- Behavioral issues — poor attitude, social media problems, academic struggles, off-court incidents
+- Coaching staff changes — a new coach may not honor the previous coach's commitments
+- Roster needs shift — the program fills the position through the transfer portal or another recruit
+- The player gets injured and the school reassesses
+
+**Players decommit (walk away from a verbal commitment) for reasons including:**
+- A better offer comes from a more attractive program
+- The coaching staff changes and the relationship is no longer there
+- The player visits campus and it's not the right fit
+- Family circumstances change
+- The player's development opens doors that weren't available when they initially committed
+
+**The takeaway:** Verbal offers and verbal commitments are statements of intent, not contracts. Both sides can walk away at any time before the NLI is signed. This is why ongoing development matters — a player who stops improving after committing is at risk of losing the opportunity. And it's why families shouldn't treat a verbal offer as a finish line.
+
+### Character, Attitude, and Coachability — The Underrated Recruiting Factors
+
+Parents and players often underestimate how much college coaches evaluate **who you are**, not just how you play. Talent gets you noticed. Character determines whether a coach follows through.
+
+**What coaches are watching beyond the stat sheet:**
+- **Body language.** How does the player respond to a bad call? A teammate's mistake? Being subbed out? Coaches watch this closely — a player who sulks, argues with refs, or shows negative body language is a risk they don't want on their roster.
+- **Coachability.** Does the player listen, accept feedback, and adjust? Or do they dismiss coaching and do their own thing? College coaches are investing a scholarship in someone they'll coach for 4+ years. They need to know the player will respond to instruction.
+- **Effort and motor.** Does the player compete on every possession — offense AND defense? Do they sprint back in transition? Do they fight for loose balls? Coaches can teach skill. They can't teach effort. A player who plays hard all the time is more attractive than a more talented player who takes plays off.
+- **How they treat teammates.** Is this player lifting others up or tearing them down? Are they a good teammate in tough moments, not just when things are going well?
+- **Attitude in adversity.** Every game has runs. Every season has rough patches. How the player handles adversity tells a coach everything about their mental makeup.
+
+**This is not abstract.** There are real stories of players losing D1 offers because of attitude problems, poor body language, or being seen as uncoachable. A coach who sees a talented player screaming at a teammate after a turnover is a coach who crosses that player off their list — regardless of the talent.
+
+**The good news:** These are things a player can control. You can't control your height, your speed, or whether a coach attends your game. You CAN control your attitude, your effort, your body language, and how you treat the people around you. Players who are known as great teammates, hard workers, and coachable competitors have a significant recruiting advantage — and it costs nothing.
+
+### Are 8th Grade Offers Real?
+
+**No.** Not in any binding sense. Here's why:
+
+1. **No NLI can be signed until senior year.** An 8th grader is 4+ years away from signing anything.
+2. **Coaches can't even initiate direct contact until June 15 after sophomore year.** An 8th grader is 2+ years away from official contact.
+3. **Coaching staffs turn over.** The coach who "offered" may not be at the school in 4 years.
+4. **Player development is unpredictable.** A dominant 8th grader may plateau; a late bloomer may emerge.
+5. **Roster needs change.** The school's needs in 4 years are unknowable.
+
+**So what does an "8th grade offer" actually mean?**
+
+It means a coach has expressed early interest — usually through a third party (AAU coach, camp director, family connection). It's a compliment. It signals that the player is on the radar. But it is not a commitment, not a guarantee, and not something to make decisions around.
+
+**What to do with it:**
+- Appreciate it as validation that your kid is on the right track
+- Don't announce it on social media as if it's a done deal
+- Don't make school, reclassification, or financial decisions based on it
+- Continue focusing on development — the offer that matters is the one that comes with an NLI to sign
+
+### The Social Media Problem
+
+Instagram is full of 8th graders posting "Blessed to receive an offer from [University]!" with commitment graphics.
+
+Here's the reality:
+- Most of these are verbal expressions of interest, not committable offers
+- Many will never materialize into actual scholarships
+- Some are manufactured by families or programs for clout
+- College coaches have told us privately that early "offers" are often just a way to stay connected to a prospect — not a scholarship commitment
+
+**This doesn't mean all early interest is fake.** Elite prospects genuinely do draw early attention. But the gap between "a coach said they like you" and "here's a full scholarship" is enormous — and filled with years of development, roster changes, coaching turnover, and competition from other prospects.
+
+
+## How NIL and the Transfer Portal Changed Everything
+
+The recruiting landscape has shifted dramatically in recent years. Understanding these changes is essential for setting realistic expectations.
+
+### The Transfer Portal
+
+- College programs increasingly build rosters through the **transfer portal** — recruiting proven college players rather than high school prospects.
+- This means **fewer high school players are getting early scholarship offers.** Programs are more willing to wait and recruit from the portal once they know their roster needs.
+- For Canadian players, this actually reinforces the value of the prep year and extra development time. Programs want players who are **ready to contribute**, not projects to develop.
+
+### NIL (Name, Image, and Likeness)
+
+- Players can now earn money from their name, image, and likeness while in college.
+- NIL deals tend to go to players who are **ready to contribute immediately** — reinforcing the value of arriving at college physically and mentally prepared.
+- The NIL landscape is still evolving rapidly and varies by school.
+
+### What This Means for Recruiting Timelines
+
+- **Expect later commitments.** The era of early verbal commits in 9th-10th grade is fading. Programs are more cautious about extending early offers.
+- **Development time is more valuable.** Being a polished, physically mature player at 19-20 is increasingly more attractive than being a raw 18-year-old freshman.
+- **The prep year matters more.** For Canadian players, the post-grad prep year is becoming an even more important part of the pathway — it's where you prove you're ready for college basketball.
+
+
+## For Canadian Players — Recruiting Realities
+
+### The Visibility Challenge
+
+Canadian players face a structural disadvantage in recruiting: **college coaches can't easily see you play.**
+
+- NCAA evaluation periods are concentrated in June-July. If your kid is playing on a circuit with events during these windows, coaches can watch. If not, they're invisible.
+- Most D1 coaches are not going to fly to Calgary to watch a local tournament. You need to bring the player to where the coaches are — or ensure the player is on film at a high level.
+
+### How Canadian Players Get Recruited
+
+1. **Sneaker circuit performance during evaluation periods** — the primary channel for players on EYBL, EYCL, 3SSB, UAA teams
+2. **Prep school leagues (NPH, NPA, OSBA)** — increasingly drawing D1 coaching attendance. For many Canadian players, the prep year is when serious recruiting attention arrives.
+3. **Canada Basketball national team events** — U16, U17, U19 pathway draws scouts and coaches
+4. **Film and highlights** — essential for players who aren't yet competing at the circuit level. Quality game film against strong competition is more valuable than highlight reels against weak opponents.
+5. **Recruiting platforms** — NCSA, Prep Hoops Canada, North Pole Hoops profiles help with discoverability
+6. **Direct outreach from the family** — players and families can contact college programs at any time. Filling out recruiting questionnaires, emailing coaches, and attending camps is always permitted and often how the conversation starts.
+
+### Realistic Timeline for a Canadian Player
+
+| Age/Grade | What's Happening |
+|---|---|
+| 13-14 (7th-8th grade) | Development. Circuit play for development, not recruiting. No legitimate college offers at this age. |
+| 15-16 (9th-10th grade) | Building a profile. Playing on circuits during evaluation periods. Film library growing. May start filling out recruiting questionnaires. |
+| 16-17 (10th-11th grade) | Recruiting ramps up. Coaches can initiate contact (June 15 after sophomore year). Official/unofficial visits begin. Verbal offers to top prospects. |
+| 17-18 (11th-12th grade) | Active recruiting. Official visits. Early signing period (November of senior year). Decisions being made. |
+| 18-19 (Prep year) | For many Canadians, this is when the heaviest recruiting happens. Prep school exposure, showcase events, final development before college. |
+| 19-20 (NCAA freshman) | Enrolled. Clock starts. |
+
+
+## Key Takeaways
+
+1. **Verbal offers are not binding.** The only binding document is the National Letter of Intent, which can't be signed until mid-November of senior year. Everything else is a statement of intent that either side can walk away from.
+2. **8th grade "offers" are not real offers.** They're expressions of interest. Appreciate them, but don't make decisions based on them.
+3. **June 15 after sophomore year is the real start line.** That's when coaches can initiate direct contact. Before that, any "recruiting interest" is coming through intermediaries.
+4. **Live evaluation periods drive circuit scheduling.** The reason sneaker circuits matter for recruiting is that they're scheduled during the NCAA windows when coaches are allowed to watch. Playing outside these windows has minimal recruiting value.
+5. **The transfer portal has shifted recruiting later.** Programs are less likely to lock in high school prospects early. Development time and readiness matter more than ever.
+6. **For Canadians, the prep year is increasingly where recruiting happens.** The combination of prep school league exposure (NPH, NPA, OSBA) during evaluation periods + physical/skill maturity makes the prep year the most impactful recruiting window for many Canadian players.
+7. **Film matters, but context matters more.** A highlight reel against a Canadian junior high team is not the same as game film from Jr EYBL or a prep school league game. Invest in getting filmed at the highest level your kid can compete at.
+8. **Your kid can always reach out first.** There are no NCAA restrictions on when a prospect can contact a college program. Be proactive — fill out questionnaires, email coaches, attend camps.
+
+
+## Sources
+
+- [NCAA Division I and II Recruiting Calendars](https://www.ncaa.org/sports/2018/5/8/division-i-and-ii-recruiting-calendars.aspx) — official NCAA calendar page (updated annually)
+- [NCSA: 2025-26 NCAA Men's Basketball Recruiting Calendar and Rules](https://www.ncsasports.org/mens-basketball/recruiting-calendar-rules) — recruiting rules summary
+- [National Letter of Intent](http://www.nationalletter.org) — NLI signing dates and rules
+- [NCAA Eligibility Center](https://web3.ncaa.org/ecwr3/) — registration and eligibility requirements
+- [NCAA Division I and II Recruiting Calendars](https://www.ncaa.org/sports/2018/5/8/division-i-and-ii-recruiting-calendars.aspx) — official calendar page
+
+
+## Help Us Get It Right
+
+NCAA rules are in flux — NIL legislation, transfer portal regulations, and eligibility changes are evolving rapidly. If you have updated information, corrections, or firsthand experience that could improve this guide, we want to hear from you. Accuracy matters here because families make real decisions based on this information.
+
+
+*This guide is part of the Canadian Basketball Pathway series. Last updated April 2026. NCAA rules change frequently — verify current rules at [ncaa.org](https://ncaa.org) or with a recruiting advisor.*

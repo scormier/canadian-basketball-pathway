@@ -1,0 +1,135 @@
+---
+title: Glossary
+description: Every basketball recruiting term and acronym defined for Canadian families.
+---
+
+# Glossary
+
+Basketball recruiting and development has its own language. If you're new to this world, the jargon can be overwhelming. This glossary defines the key terms used throughout this guide — and the ones you'll hear from coaches, program directors, and other parents.
+
+
+## Circuits & Leagues
+
+**AAU (Amateur Athletic Union):** A national organization that governs amateur sports in the US, including youth basketball. "AAU basketball" is often used as a catch-all term for club/travel basketball, even when the team isn't technically registered with AAU.
+
+**Circuit:** A structured league or series of tournaments operated by a shoe brand or independent organization, where invited or registered teams compete across multiple sessions during the spring and summer. Examples: Nike EYBL, Adidas 3SSB, MADE Hoops Circuit.
+
+**EYBL (Elite Youth Basketball League):** Nike's flagship grassroots basketball circuit. The top tier of youth basketball competition. Culminates at Peach Jam.
+
+**EYCL (Elite Youth Champions League):** Nike's second-tier circuit below EYBL. Strong competition with a pathway to Peach Jam for top performers.
+
+**EYBL Scholastic:** Nike's premier high school league featuring elite school-based programs (Montverde Academy, Oak Hill Academy, etc.). Distinct from EYBL — these are school teams, not club/AAU teams.
+
+**Jr EYBL:** Nike's middle school circuit (7th-8th grade). Includes the official invited circuit AND open-registration events (Jr EYBL Open Events). These are not the same thing — see the [Sneaker Circuits guide](/circuits/sneaker-circuits).
+
+**Jr EYBL Open Events:** Open-registration tournaments under the Nike Jr EYBL brand. Any travel team can enter. Winners can qualify for the Jr. Nike Championship. Not the same as being on the official Jr EYBL circuit.
+
+**3SSB (3-Stripe Select Basketball):** Adidas's flagship grassroots circuit.
+
+**3SGB (3-Stripes Gold Basketball):** Adidas's second-tier circuit below 3SSB.
+
+**Jr 3SSB:** Adidas's middle school circuit.
+
+**UAA (Under Armour Association):** Under Armour's flagship grassroots circuit. Known for competitive parity.
+
+**UA Rise:** Under Armour's second-tier circuit below UAA.
+
+**UA Future:** Under Armour's middle school/youth development circuit.
+
+**PRO16:** Puma's flagship circuit, operated through NXTPRO Sports.
+
+**NXT League:** Puma's developmental tier below PRO16.
+
+**P32 (Prove 32):** New Balance's grassroots circuit.
+
+**Uncle Drew Circuit:** ANTA-backed grassroots circuit founded by Kyrie Irving in 2025. 12U-17U, boys and girls.
+
+**MADE Hoops:** The largest independent (non-shoe-brand) circuit and media company in grassroots basketball.
+
+**NPA (National Preparatory Association):** The most prominent Canadian prep basketball league, operated by North Pole Hoops. Prep school teams compete in structured sessions.
+
+**NPH (North Pole Hoops):** Canadian basketball media, scouting, and events organization. Operates the NPA.
+
+**OSBA (Ontario Scholastic Basketball Association):** An Ontario-based prep school basketball league.
+
+**Peach Jam:** The EYBL championship event, held in Augusta, GA (previously North Augusta, SC). The most prestigious grassroots basketball event in North America.
+
+**Grassroots basketball:** Club/travel basketball outside of the school system. The term used for the AAU/circuit ecosystem.
+
+
+## Recruiting & Eligibility
+
+**Adjoining state rule:** A geographic eligibility rule (enforced by Nike and other circuits) requiring players to live or attend school in their team's assigned area or a bordering state. For Canadian players, this is understood to mean teams in US states that border Canada.
+
+**Amateurism:** NCAA requirement that student-athletes have not received payment for playing, signed professional contracts, or received improper benefits. Verified through the NCAA Eligibility Center.
+
+**Committable offer:** An informal term (not official NCAA language) for a verbal offer that the school will honor immediately if the player accepts. Not all verbal offers are committable.
+
+**Contact period:** A window in the NCAA recruiting calendar when coaches can have in-person contact with recruits on or off campus.
+
+**Core courses:** The 16 specific high school courses (English, Math, Science, Social Science, plus electives) required by the NCAA for D1/D2 eligibility. Not all Canadian courses qualify — verify with the Eligibility Center.
+
+**Core GPA:** GPA calculated using only NCAA-approved core courses, not overall transcript GPA. Minimum 2.3 for D1, 2.2 for D2.
+
+**Dead period:** A window in the NCAA recruiting calendar when no in-person contact between coaches and recruits is allowed, on or off campus.
+
+**Eligibility Center (NCAA):** The organization that determines whether a student-athlete meets academic and amateurism requirements to compete at NCAA D1 or D2 schools. Registration required for all D1/D2 prospects. Canadian students are classified as international ($170 fee).
+
+**Eligibility clock:** The 5-year window (D1) during which a student-athlete has 4 seasons of competition. Starts at first full-time college enrollment. Does NOT start during prep school or high school.
+
+**Evaluation period:** A window in the NCAA recruiting calendar when coaches can watch prospects compete in person at approved events but cannot have off-campus contact. This is when sneaker circuits schedule their sessions.
+
+**IRL (Institutional Request List):** When a college program formally requests a prospect's eligibility status from the NCAA Eligibility Center. Your account doesn't start processing until a school puts you on their IRL.
+
+**Live period:** Common term for evaluation periods — the windows when college coaches can attend events and watch prospects play in person.
+
+**National Letter of Intent (NLI):** The only binding document in college recruiting. Signed during the early signing period (mid-November of senior year) or regular signing period (mid-April). Binds the player to the school and the school to the financial aid for one year.
+
+**NIL (Name, Image, and Likeness):** NCAA rules allowing college athletes to earn money from their name, image, and likeness. Has significantly changed recruiting dynamics.
+
+**Quiet period:** A window in the NCAA recruiting calendar when coaches can meet recruits in person only on the coach's college campus.
+
+**Redshirt:** A year in which a student-athlete is enrolled, practices with the team, but does not compete in games. Preserves a season of competition but uses one of the 5 calendar years.
+
+**Transfer portal:** The NCAA system through which college athletes can transfer to other schools. Programs increasingly recruit from the portal rather than from high school.
+
+**Verbal commitment:** A public, non-binding announcement by a player that they intend to attend a specific school. Either side can walk away at any time before the NLI is signed.
+
+**Verbal offer:** A non-binding expression of interest from a college coach. The coach indicates they'd like the player to attend their school, but nothing is signed or guaranteed.
+
+
+## Canadian-Specific Terms
+
+**+1 class year (CAN/US offset):** The convention where Canadian players are listed one year later in US recruiting databases than their Canadian graduation year. A Canadian Class of 2031 = US Class of 2032. This exists because the standard Canadian pathway includes a prep year, and US databases assign class based on expected college enrollment, not high school graduation.
+
+**Grade structure:** Elementary (K-6), Junior High (7-9), High School (10-12). Grade 9 is typically junior high in Canada but freshman year (high school) in the US (exceptions apply). This creates mapping confusion in recruiting databases.
+
+**Prep year (post-grad year):** A year spent at a basketball prep school after graduating high school (grade 12). Standard in the Canadian-to-NCAA pipeline. Does NOT start the NCAA eligibility clock. The prep year is so common that it's baked into the US class year designation.
+
+**Reclassification:** Changing a player's graduating class, typically by repeating a grade. In Canada, this is uncommon and often done to gain developmental flexibility — not to play against younger competition. See the [Reclassification Guide](/schools/reclassification).
+
+**USports:** The governing body for university sports in Canada (equivalent to the NCAA). Offers 5 years of eligibility. Athletic scholarships are limited — full rides based on athletics alone are not available in USports.
+
+
+## US Grade-to-Canadian Grade Translation
+
+| US Term | US Grade | Canadian (Alberta) Grade | Canadian Level |
+|---|---|---|---|
+| Freshman | 9th grade | Grade 10 | HS Year 1 |
+| Sophomore | 10th grade | Grade 11 | HS Year 2 |
+| Junior | 11th grade | Grade 12 | HS Year 3 |
+| Senior | 12th grade | Prep year (post-grad) | Post-secondary prep |
+
+
+## Age/Grade Division Mapping
+
+| Division | US Grade | Canadian (Alberta) Grade | Age Cutoff (typical) |
+|---|---|---|---|
+| 13U / 7th Grade | 7th grade | 8th grade | Can't turn 15 before Aug 1 |
+| 14U / 8th Grade | 8th grade | 9th grade | Can't turn 16 before Aug 1 |
+| 15U / 9th Grade | 9th grade | 10th grade | Can't turn 17 before Aug 1 |
+| 16U / 10th Grade | 10th grade | 11th grade | Can't turn 18 before Aug 1 |
+| 17U / 11th Grade | 11th grade | 12th grade | Age varies by circuit |
+
+
+*This glossary is part of the Canadian Basketball Pathway series. Last updated April 2026. Terms and definitions may evolve as the landscape changes.*

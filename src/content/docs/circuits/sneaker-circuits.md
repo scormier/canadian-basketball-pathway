@@ -1,0 +1,383 @@
+---
+title: Sneaker Circuits Explained
+description: What sneaker circuits are, how they work, and what Canadian families need to know.
+---
+
+# Sneaker Circuits Explained
+
+## What Are Sneaker Circuits?
+
+If your kid plays competitive basketball and you've heard parents talk about "EYBL," "3SSB," or "getting on a Nike team" — they're talking about sneaker circuits.
+
+Sneaker circuits are **national basketball leagues and tournament series sponsored by major shoe brands** — Nike, Adidas, Under Armour, Puma, New Balance, and ANTA. They're the highest level of grassroots (club/AAU) youth basketball, running alongside and outside of school basketball seasons.
+
+Here's why they matter:
+
+- **This is where a large share of college recruiting evaluation happens.** NCAA coaches attend sneaker circuit events — especially during live periods — to evaluate talent. For many elite players, circuit performance is what puts them on a college program's radar.
+- **They're invite-only (mostly).** Teams don't just sign up. Programs apply or get invited based on roster talent and organizational reputation. Being on a circuit team signals that you've been vetted as elite-level.
+- **They provide elite competition.** The best players in North America compete on these circuits. The gap between sneaker circuit ball and local club basketball is significant.
+- **They offer national exposure.** Games are streamed, stats are tracked, media covers standout performances. This creates a discoverable footprint that recruiting platforms, college coaches, and scouts use to identify talent.
+
+**Important context:** Sneaker circuits are not the only path. Canadian prep school leagues (NPH Showcase, NPA, for example) are drawing increasing numbers of D1 coaches and have become a significant recruiting venue, especially for Canadian players. Provincial team programs and Canada Basketball national team pathway events also generate exposure. Sneaker circuits are a major piece of the puzzle — but not the only one.
+
+### Who Are They For?
+
+Sneaker circuits serve players who are serious about pursuing post-secondary basketball — NCAA Division 1, Division 2, NAIA, or USports in Canada. If your kid plays basketball for fun, fitness, and friendship (which is great — most kids should), sneaker circuits aren't relevant to your world.
+
+For the small percentage of players with the talent, work ethic, and aspiration to play at the next level, understanding this landscape is essential. It's also confusing, opaque, and full of misinformation — which is why this guide exists.
+
+
+## The Major Circuits — A Hierarchy
+
+Think of sneaker circuits like a pyramid. Each shoe brand runs multiple tiers, from their flagship elite league down to developmental and middle school divisions. The higher the tier, the better the competition, the more college coaches attend, and the harder it is to get in.
+
+**A note on cross-tier rankings:** A brand's flagship circuit isn't automatically better than another brand's second tier. Nike's EYCL (second tier), for example, still draws significant attention and may provide more exposure than some other brands' flagship circuits. The rankings below compare within each brand; see the cross-brand comparison section for how they stack up against each other.
+
+### Nike
+
+Nike runs the most prestigious and well-known grassroots circuits in basketball.
+
+**EYBL (Elite Youth Basketball League)** — The Flagship
+- **What it is:** The top tier of grassroots basketball. The NBA draft is disproportionately populated by EYBL alumni.
+- **Age groups:** 15U, 16U, 17U
+- **Structure:** 3 regular-season sessions at locations across the US, followed by **Peach Jam** — the finale event held in North Augusta, SC. Peach Jam is the single most-watched grassroots event by college coaches.
+- **How to get in:** Programs are selected by Nike's grassroots department. Roster talent, organizational reputation, and geographic coverage drive selection. There are approximately 64 EYBL team slots nationally.
+- **Promotion/relegation:** Nike operates a promotion/relegation system between EYBL and EYCL. EYCL champions can earn a 2-year EYBL partnership. Underperforming EYBL programs can be relegated to EYCL. This means the circuit is competitive not just for players but for programs. *(Note: We have not been able to verify the exact promotion/relegation mechanics from official Nike documentation. If you have details, [let us know](#help-us-get-it-right).)*
+- **Gear:** EYBL programs receive Nike gear and apparel as part of their sponsorship.
+- **Canadian presence:** [UPLAY Canada](https://uplaycanada.com/) is currently the only Canadian program with an official Nike EYBL partnership. [Kia Nurse Elite](https://www.instagram.com/kianurseelite/) holds the Canadian spot on the girls' side.
+
+**EYCL (Elite Youth Champions League)** — Second Tier
+- **What it is:** Launched in 2023 as a strong competitive tier below EYBL. Gives more programs Nike access and provides a pathway toward EYBL consideration.
+- **Age groups:** 15U, 16U, 17U
+- **Structure:** Regular-season sessions with a pathway into the Peach Jam finals bracket for top performers.
+- **Why it matters:** Don't dismiss EYCL as "second tier" — this circuit gets real attention from college coaches and scouts. The Nike affiliation alone guarantees a level of visibility that many other circuits (including some flagships from other brands) can't match.
+- **Gear:** EYCL programs typically do not receive free gear from Nike. This varies by program.
+- **Canadian presence:** UPLAY Canada and Genesis Basketball are confirmed EYCL participants. There may be others.
+
+**EYBL Scholastic** — Elite High School League
+- **What it is:** Nike's premier high school league, featuring 20 of the top basketball programs in North America — including Montverde Academy, Oak Hill Academy, Sunrise Christian Academy, and CATS Academy Boston. This was originally the NIBC (National Independent Basketball Conference), rebranded under Nike starting in 2023-24.
+- **Important distinction:** This is a **school-based** league, not a club/AAU circuit. Teams represent their high schools, not grassroots programs.
+- **Why it matters:** The caliber of programs in EYBL Scholastic is elite. This league draws significant D1 coaching attention and produces high-major and NBA-level talent. In terms of competition and exposure, EYBL Scholastic sits above EYCL in Nike's hierarchy.
+
+**Jr EYBL** — Middle School
+- **What it is:** Nike's middle school circuit. This is where it gets confusing — and where parents need to pay attention.
+
+**There are THREE distinct tiers within Jr EYBL:**
+
+| Tier | What It Is | Who Can Participate |
+|---|---|---|
+| **Jr EYBL (Official Circuit)** | The real deal. Invitation-only. Official Nike Jr EYBL program teams compete in a structured season across regional sessions. | Selected programs only (~80 teams per grade) |
+| **Jr EYBL Grassroots Open** | Open-registration regional tournaments under the Nike Jr EYBL brand. Any travel team can enter. Top 32 teams from each region's first event qualify for a second event. | Any registered team |
+| **Jr EYBL Grassroots Finale** | Regional 7th and 8th grade Open Event champions earn automatic bids to the Jr. Nike Championship alongside official circuit qualifiers. | Regional winners from Open events |
+
+**Jr EYBL Official Circuit structure ([source: Nike Jr EYBL Overview PDF](https://drive.google.com/drive/u/0/folders/1-TpVOxtSy3WRDcy3hE6WLnoA-vs0Zed-)):**
+- **Grades:** Separate 7th and 8th grade divisions
+- **Regions:** Northeast, Southeast, Midwest, Southwest, West
+- **Pools:** Each region has Pool A and Pool B, with 8 teams per pool (~80 official circuit teams per grade)
+- **Season flow:** Super Regional (all teams together) → 2 Regional Sessions → **Jr. Nike Championship** (Augusta, GA)
+
+**How teams qualify for the Jr. Nike Championship:**
+- **Automatic bids:** Top 5 from Pool A per region (25) + Top 5 from Pool B per region (25) + 5 Open Event regional winners = **55 automatic bids**
+- **Wildcards:** 8 additional at-large bids regardless of pool
+- This means Open Event teams CAN earn their way to the Championship alongside official circuit teams — but they have to win their region to get there.
+
+> **Parent warning: "Jr EYBL" doesn't always mean what you think.** Some clubs advertise that they have a "Jr EYBL team" when they're actually entering Jr EYBL Open Events — which any team can register for. This is very different from being an official Jr EYBL circuit program with a spot in Pool A or B. Nike themselves state: *"Jr EYBL Open Events are the only third party events affiliated with Nike."* Ask your program: "Are we on the official Jr EYBL circuit, or are we entering Open Events?" Both are legitimate — but they're not the same thing, and you should know which one you're paying for.
+
+- **Canadian presence on the official Jr EYBL circuit (2026):**
+  - **Genesis Basketball** — West region, Pool A (7th and 8th grade)
+  - **UPLAY** — Midwest region, Pool A (7th and 8th grade)
+  - **UPLAY West** — West region, Pool B (7th and 8th grade)
+
+
+### Adidas
+
+Adidas runs the second-largest sneaker circuit ecosystem, with a stable and well-organized structure.
+
+**3SSB (3-Stripe Select Basketball)** — The Flagship
+- **What it is:** Adidas's top grassroots league. Strong national platform with proven NBA/D1 pipelines.
+- **Age groups:** 15U, 16U, 17U
+- **Structure:** Regular-season sessions with July championships.
+- **How to get in:** Application/invitation based. Programs are selected by adidas grassroots staff.
+- **Canadian presence:** Fort Erie International Academy is believed to participate in 3SSB. There may be other Canadian programs — if you know of one, [let us know](#help-us-get-it-right).
+
+**3SGB (3-Stripes Gold Basketball)** — Second Tier
+- **What it is:** The developmental tier below 3SSB. Broader access, more programs, strong stepping stone.
+- **Why it matters:** 3SGB gives programs that aren't quite 3SSB-level a legitimate national platform. Quality varies by session but the best 3SGB teams are competitive with mid-tier 3SSB programs.
+
+**Jr 3SSB** — Middle School
+- **What it is:** Adidas's middle school circuit, mirroring Jr EYBL.
+- **Age groups:** 13U/14U
+- Same pipeline logic as Jr EYBL — positions players for adidas HS programs.
+
+
+### Under Armour
+
+Under Armour has the most stable circuit structure of the big three and a strong reputation for competitive parity.
+
+**UAA (Under Armour Association)** — The Flagship
+- **What it is:** UA's top grassroots league. Known for competitive balance — less top-heavy than EYBL.
+- **Age groups:** 15U, 16U, 17U
+- **Structure:** 12-game regular season with July single-elimination finals.
+- **Reputation:** Strong and consistent D1 coach attendance. Some coaches prefer UAA events because the competition is more balanced than EYBL's top-heavy structure.
+- **Canadian presence:** Canada Elite is a strong UAA program — their 15U team won their division recently, led by players like Isaiah Hamilton. Don't overlook UA's Canadian presence.
+
+**UA Rise** — Second Tier
+- **What it is:** Second tier below UAA. Pairs with UAA finals footprint, which means college coaches who attend UAA finals also see Rise games.
+- **Smart positioning:** Playing UA Rise at a combined finals site gives genuine exposure that pure second-tier events in other ecosystems don't always deliver.
+
+**UA Future** — Middle School
+- **What it is:** UA's youth development platform, modeled after UAA.
+- **Age groups:** Middle school / younger
+- Pipeline into UAA at the high school level.
+
+
+### Puma (via NXTPRO Sports)
+
+Puma's grassroots presence is operated through **NXTPRO Sports**, a partnership model (NXTPRO runs operations; Puma provides sponsorship and gear).
+
+**PRO16** — The Flagship
+- **What it is:** Puma's top-tier circuit. 16 elite programs.
+- **Age groups:** 15U, 16U, 17U
+- **Reputation:** Strong at the top, still building consistent depth compared to Nike/Adidas/UA. Growing rapidly.
+
+**NXT League** — Developmental Tier
+- **What it is:** Broader circuit below PRO16. 50+ events, multi-region footprint, 13U through 17U.
+- **Streaming:** NXTPRO has invested heavily in video coverage through partnerships with SportsEngine Play. Having your games on film and easily shareable helps with recruiting outreach between live periods.
+
+
+### New Balance
+
+The newest traditional shoe brand in grassroots basketball, with a growing but still-maturing circuit.
+
+**P32 (Prove 32)** — The Circuit
+- **What it is:** New Balance's grassroots league, launched around 2022-2023.
+- **Age groups:** 17U core, with Jr P32 and Lady P32 expansions in development.
+- **Reputation:** Legitimate and growing, but clearly the junior brand among the established circuits. Fewer teams, less recruiting pull, but less gatekeeping too. Good for late bloomers and programs building their national profile.
+
+
+### ANTA / Uncle Drew Circuit
+
+The newest entrant to the grassroots circuit world, backed by **ANTA** (Chinese sportswear brand) and founded by **Kyrie Irving** in 2025.
+
+**Uncle Drew Circuit** ([uncledrewcircuit.com](https://www.uncledrewcircuit.com/))
+- **What it is:** A youth basketball circuit built around "craft, passion, and love for the game." Named after Kyrie Irving's Uncle Drew persona. Positioned as a culture-first alternative to the traditional sneaker circuits.
+- **Age groups:** 12U through 17U, boys and girls
+- **2026 stops:** Dallas TX (May 1-3), Las Vegas NV (July 9-12), Manalapan NJ (July 16-19)
+- **Gear:** Every registered player receives a complete kit — Deuce Brand apparel (jersey, shorts, performance top, socks) plus ANTA shoes.
+- **How to get in:** Teams register through the BBCS (Basketball Certification System). Requires a USAB Gold License.
+- **Canadian presence:** Pacific Elite Basketball (BC) confirmed with U15 and U16 teams.
+- **Where it fits:** Brand new circuit — too early to rank against established circuits. Worth watching as ANTA's basketball investment grows. The culture-first positioning and Kyrie's name recognition give it a different feel than the traditional brand circuits.
+
+
+## The Independents
+
+Not every important circuit is run by a shoe brand. Independent circuits fill critical gaps and can provide meaningful exposure — in some cases rivaling or exceeding the exposure of lower-tier branded circuits.
+
+### MADE Hoops
+- **What it is:** The largest and most respected independent circuit and media company in grassroots basketball. Known for high production value, strong media coverage, and genuine basketball content.
+- **Events:** MADE runs events across multiple age groups and formats — this is NOT just a middle school circuit. Their portfolio includes:
+  - **MADE Hoops Circuit** (HS level, 15U-17U)
+  - **West Winter Circuit** and other regional circuits
+  - **Showcases and camps** across age groups
+  - **Middle school events** (10U through 8th grade) including winter circuits and season openers
+- **Why it matters for Canadians:** MADE Hoops events — including but not limited to the West Winter Circuit — are accessible to any program (no shoe brand exclusivity). Several MADE events have western US locations that are more practical from Alberta/BC. MADE's media arm also provides real discoverability.
+- **Reputation:** At its best, MADE Hoops provides exposure that rivals some branded circuits. College coaches attend. The media reach is genuine. A strong MADE Hoops performance can move the needle for a player's recruiting profile.
+
+### Select Events (Select 40 / Power 24)
+- **What it is:** Invite-only independent league featured across NCAA live-period windows. Power 24 is the elite tier.
+- **Reputation:** Strong college coach attendance. The invite model means competition is curated and high-level.
+
+### Hoop Group Showcase League (HGSL)
+- **What it is:** Invite-only independent league (15U-17U). Proven college pipeline.
+- **Location:** Northeast-focused; finals at Spooky Nook Sports Complex.
+
+### Prep Hoops Circuit
+- **What it is:** National schedule with regional qualifiers and finals. Also operates a major rankings and media platform.
+- **Why it matters:** Prep Hoops has a significant Canadian presence through **Prep Hoops Canada**. Their rankings, coverage, and events make them one of the more accessible platforms for Canadian players and programs.
+
+### NY2LA Association
+- **What it is:** Longstanding Midwest-anchored operator. Well-respected with consistent college coach presence.
+
+### Zero Gravity ZGXL
+- **What it is:** East-leaning exposure league with events at Spooky Nook and other northeastern venues.
+- **Note:** Primarily East Coast accessible. Less relevant for Western Canadian families.
+
+### Big Shots
+- **What it is:** High-volume event operator with a wide range of competition levels.
+- **Reputation:** Accessible entry point for teams building their competitive resume. Competition depth varies significantly.
+
+
+## Ranking the Circuits
+
+Rankings in grassroots basketball are inherently opinion-based. There is no single authoritative dataset that compares circuits apples-to-apples across brands. What we can offer is a directional view based on the consensus among coaches, scouts, recruiting media, and families — with the honest caveat that reasonable people disagree on the ordering, and it shifts year to year.
+
+**What would make this more data-driven:** Tracking D1 commits, NBA draft picks, and college coach attendance by circuit would help. Services like Prep Hoops and 247Sports track some of this, but no one publishes a comprehensive cross-circuit comparison. If you have data or analysis that could improve these rankings, [let us know](#help-us-get-it-right).
+
+### By Competition (Depth of Top Teams)
+
+| Tier | Circuits | Notes |
+|---|---|---|
+| **Elite** | Nike EYBL | Densest elite talent year over year. Peach Jam is the apex. |
+| **Very Strong** | Nike EYBL Scholastic, Adidas 3SSB, UA UAA | EYBL Scholastic features Montverde, Oak Hill, Sunrise Christian — elite school programs. 3SSB and UAA are proven D1/NBA pipelines. |
+| **Strong** | Nike EYCL, MADE Hoops (top events), Select 40 | EYCL benefits from Nike's ecosystem and coach attention. MADE's best events rival branded second-tier circuits. |
+| **Competitive** | Puma PRO16, UA Rise, 3SGB, HGSL, Prep Hoops | Meaningful competition. Rising programs and players. Some events draw strong coaching presence. |
+| **Developing** | NB P32, Puma NXT, Uncle Drew, NY2LA, ZGXL, Big Shots | Legitimate platforms. Competition and exposure depth is building. |
+
+### By Exposure (College Coach Attendance + Discoverability)
+
+| Tier | Circuits | Notes |
+|---|---|---|
+| **Highest** | Nike EYBL / Peach Jam, EYBL Scholastic | Biggest magnet for D1 coaches. |
+| **Very High** | Adidas 3SSB, UA UAA, Nike EYCL | Strong D1 turnout. EYCL benefits from Nike's coaching relationships. |
+| **High** | Select 40, MADE Hoops, UA Rise | Select 40's invite model drives coach density. MADE's media reach adds discoverability. UA Rise co-locates with UAA finals. |
+| **Meaningful** | Puma PRO16, Prep Hoops, HGSL, NY2LA | Real pipelines. Vary by event and region. |
+| **Growing** | NB P32, Puma NXT, Uncle Drew, ZGXL, Big Shots | Legitimate but still building recruiting pull. |
+
+
+## How Teams Get Into Circuits
+
+This is one of the most common questions from families new to the grassroots world. Here's how it works at a high level:
+
+**Shoe-brand circuits (Nike, Adidas, UA, Puma, NB, ANTA):**
+- Programs **apply or are invited** by the brand's grassroots department.
+- Selection is based on: roster talent, program reputation and track record, geographic coverage needs, and relationship with brand staff.
+- Most brands want national geographic coverage. Having a strong program in an underrepresented region (like Western Canada) can help.
+- **Gear varies by circuit and tier.** EYBL programs receive full Nike gear and apparel. EYCL programs typically do NOT receive free gear. Other circuits vary — don't assume sponsorship means free gear unless confirmed.
+- **Players don't apply individually.** You get on a circuit by being on a circuit team. The program holds the spot, not the player.
+
+**Independent circuits (MADE, Select 40, Prep Hoops, etc.):**
+- **More accessible.** Many accept applications from any program or have open registration for events.
+- Invite-only circuits (Select 40, HGSL) evaluate based on roster quality and competitive track record.
+- No shoe exclusivity requirements — a Nike program can play MADE events and vice versa.
+
+**For Canadian families:**
+- Your path to sneaker circuits typically runs through your **club program.** If you want your kid on a circuit, they need to be on a team whose program has circuit access.
+- **That said:** If your kid is talented enough and gaining recognition within Canada, circuit programs — including US-based ones — may reach out directly. Strong players get noticed.
+- Ask your program director: "What circuits do we play on? What's the plan for the next 2-3 years?" This tells you a lot about the program's ambition and connections.
+- Some Canadian programs have built strong relationships with US brand grassroots staff over years. This is a real competitive advantage that isn't always visible from the outside.
+
+
+## The Middle School Question
+
+For parents of 7th and 8th graders, the sneaker circuit world can feel like a pressure cooker: "My kid needs to be on Jr EYBL NOW or they'll miss the boat."
+
+Here's the honest truth:
+
+**What middle school circuits are for:**
+- Development and acclimatization. Getting reps against elite national talent so the jump to 15U is less jarring.
+- Early relationship building. Playing Jr EYBL or Jr 3SSB can connect players with programs they might play for at the high school level.
+- Building a film archive. Games are streamed, creating highlight material.
+- Learning the travel grind — tournaments, back-to-backs, road games — without college-pressure stakes.
+
+**What they're NOT for:**
+- Recruiting. College coaches do not recruit 13-14 year olds. At best, prep school scouts and event media start tracking names for future watch lists.
+- "Exposure" in the way parents imagine it. No D1 coach is making a scholarship decision based on a Jr EYBL game.
+
+**When it makes sense:**
+- Your kid is in the top 5-10% of their age group regionally and is already being sought by circuit programs.
+- You see the investment as development, not exposure. The costs (travel, fees, time) are nearly identical to high school circuits, but the recruiting ROI at this age is minimal.
+- The program has a clear pipeline into a high school circuit team. Jr EYBL with no path into Nike 15U is just expensive basketball.
+
+**When it doesn't:**
+- Your kid isn't yet at a level where they'll be competitive. Getting dominated at 13 can be discouraging, not developmental.
+- You're doing it for "exposure" reasons. Save the money for when it matters (15U+).
+- The travel and time commitment is straining the family or the kid's love of the game.
+
+**The burnout warning:** Year-round national travel at age 12-14 can shorten basketball careers. The kids who burn out at 16 often started the grind too early. Balance matters more than early circuit participation.
+
+
+## For Canadian Families — What's Realistic
+
+Let's be specific about what the sneaker circuit world looks like from Canada.
+
+### The Travel Reality
+
+If you're in Alberta or Western Canada, sneaker circuit participation means **significant travel to the US.** There are no major sneaker circuit sessions held in Canada.
+
+**HS Level (15U-17U) — circuits with known Canadian participation:**
+- Nike EYBL (UPLAY Canada)
+- Nike EYCL (UPLAY Canada, Genesis Basketball, possibly others)
+- Adidas 3SSB (Fort Erie International Academy, possibly others)
+- Under Armour UAA (Canada Elite)
+- MADE Hoops Circuit & events
+- Uncle Drew Circuit (Pacific Elite Basketball, BC)
+- Prep Hoops events
+
+**Middle School / Jr — circuits with known Canadian participation:**
+- Jr EYBL Official Circuit (Genesis Basketball, others)
+- Jr EYBL Open Events (any registered team can enter)
+- MADE Hoops events
+- Uncle Drew Circuit (12U+)
+- Prep Hoops events
+
+**Note:** There's nothing preventing Canadian teams from participating in other circuits (Puma NXT, UA Rise, NB P32, etc.) — these are just the ones where we've confirmed Canadian program involvement. If your program is on a circuit not listed here, [let us know](#help-us-get-it-right).
+
+Expect 3-5 trips to the US per circuit season, each requiring flights, hotels, and 3-4 days away. Sessions are held at locations like Dallas, Memphis, Grand Rapids, Indianapolis, Las Vegas, and others.
+
+### The Cost Reality
+
+Per season, expect to budget for:
+- **Club/team fees:** Varies by program ($2,000-$5,000+)
+- **Circuit travel:** 3-5 trips to the US per circuit season. Each trip: $1,500-$3,000+ (flights, hotels, meals, ground transport) depending on location.
+- **Gear:** Only provided if you're on a sponsored program at the right tier. EYBL programs receive full Nike gear. EYCL programs typically do NOT get free gear. Independent circuits provide no gear. Don't assume "circuit team" means "free shoes."
+- **Total per season:** $8,000-$20,000+ depending on the circuit level and number of trips.
+
+This is real money. Not every family can or should spend it. The investment makes sense when your kid is genuinely competing at a level where the development and exposure will translate to opportunities. It doesn't make sense as a bet on potential alone.
+
+### What Canadian Families Should Know
+
+1. **Your club program is your primary gateway** — but talent gets noticed. If your kid is performing at an elite level within Canada, circuit programs (including US-based ones) may reach out directly. The program is the typical path in, but standout players create their own gravity.
+2. **School basketball in most of Canada is not the development vehicle.** This is especially true in Alberta, where hockey dominates school sports culture. Your kid's development happens through club programs, training, and circuit competition.
+3. **Film matters — but context matters more.** Having quality game film is critical for Canadian players since US coaches won't always see them in person. But a 30-point game against a Canadian junior high team does not carry the same weight as a strong performance at Jr EYBL or MADE Hoops. Film against elite competition is what moves the needle. Invest in getting your kid on film at the highest level they can compete at.
+4. **The prep school system bridges the gap.** Even if your kid doesn't get heavy circuit exposure during high school, the Canadian prep school year (post-grad) provides a concentrated year of exposure, competition, and recruiting. Prep school leagues like NPH and NPA are drawing increasing numbers of D1 coaches. See the Prep Schools guide.
+5. **Don't overspend too early.** Middle school circuits are development, not recruiting. High school circuits (15U+) are where the real exposure ROI kicks in. Budget accordingly.
+
+
+## Quick Reference — All Circuits at a Glance
+
+### Shoe Brand Circuits
+
+| Brand | Flagship | Second Tier | Middle School | School-Based |
+|---|---|---|---|---|
+| **Nike** | EYBL (→ Peach Jam) | EYCL | Jr EYBL + Open Events | EYBL Scholastic |
+| **Adidas** | 3SSB | 3SGB | Jr 3SSB | — |
+| **Under Armour** | UAA | UA Rise | UA Future | — |
+| **Puma** | PRO16 | NXT League | — | — |
+| **New Balance** | P32 | — | Jr P32 (TBC) | — |
+| **ANTA** | Uncle Drew Circuit | — | Included (12U+) | — |
+
+### Independent Circuits
+
+| Circuit | Type | Strength |
+|---|---|---|
+| **MADE Hoops** | Open/invite | Largest independent. Strong media. HS + MS events. West access. |
+| **Select 40 / Power 24** | Invite-only | Elite invite model. High coach density at live periods. |
+| **HGSL** | Invite-only | Northeast. Proven college pipeline. |
+| **Prep Hoops** | Open/regional | National schedule. Strong Canadian presence (Prep Hoops Canada). |
+| **NY2LA** | Open/invite | Midwest-anchored. Consistent recruiting. |
+| **ZGXL** | Open | East Coast focused. Dense events. |
+| **Big Shots** | Open | High volume. Wide competition range. Accessible entry. |
+
+
+## Key Takeaways
+
+1. **Sneaker circuits are one of the primary venues for college recruiting evaluation** — alongside prep school leagues (NPH, NPA), showcases, and national team events. They're a major piece of the puzzle but not the only path.
+2. **The hierarchy isn't as simple as "brand flagship = best."** Nike EYCL or EYBL Scholastic may provide more exposure than another brand's flagship circuit. Evaluate the specific circuit and its coaching attention, not just the brand name.
+3. **Access typically runs through your program** — but elite talent gets noticed regardless. If your kid is good enough, opportunities find them. That said, being on a program with circuit access and a development track record gives you a significant head start.
+4. **Middle school circuits are development, not recruiting.** Invest for the right reasons and don't let anyone sell you "exposure" for a 13-year-old.
+5. **For Canadian families, the costs are real.** Budget $8,000-$20,000+ per season at the circuit level. This makes sense for genuinely elite players, not as a speculative bet on potential.
+6. **Film matters — at the right level.** Highlight reels against weak competition don't move the needle with college coaches. Get your kid on film at the highest level they can compete at. Circuit games, prep school games, and provincial/national team events carry the most weight.
+7. **Independent circuits can be legitimate — evaluate carefully.** MADE Hoops and Select 40, at their best, rival branded circuits for exposure. But not all independents are equal. Evaluate each circuit's coaching attendance, competition level, and track record before investing.
+8. **Know what "Jr EYBL" actually means.** There's a massive difference between the official Jr EYBL circuit and Jr EYBL Open Events that any team can enter. Ask your program which one you're on.
+
+
+## Help Us Get It Right {#help-us-get-it-right}
+
+The grassroots basketball landscape changes every year. Circuits restructure, new ones launch, Canadian programs gain or lose access. We've done our best to make this guide accurate as of April 2026, but we know we don't have it all right.
+
+**If you see something that's inaccurate, outdated, or missing — especially regarding Canadian programs on these circuits — we want to hear from you.** This guide is meant to be a community resource, and it gets better with input from people who are living this every day.
+
+The goal is simple: give Canadian families honest, accurate information so they can make informed decisions for their kids. If you can help with that, reach out.
+
+
+*This guide is part of the Canadian Basketball Pathway series. Last updated April 2026. Circuit structures change annually — verify current details with program directors and circuit websites for the latest season.*
