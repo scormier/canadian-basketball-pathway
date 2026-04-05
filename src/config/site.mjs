@@ -12,7 +12,7 @@ export const NAV_SECTIONS = [
   {
     label: "Start Here",
     items: [
-      { label: "The Canadian Basketball Pathway", href: "/" },
+      { label: "Canadian Pathway", href: "/" },
     ],
   },
   {
@@ -32,7 +32,7 @@ export const NAV_SECTIONS = [
     ],
   },
   {
-    label: "Getting to College Basketball",
+    label: "Getting to College",
     items: [
       { label: "The Path to NCAA D1", href: "/circuits/recruiting-reality" },
       { label: "Building Your Recruiting Profile", href: "/circuits/building-your-profile" },
