@@ -35,6 +35,7 @@ export const NAV_SECTIONS = [
     label: "Getting to College Basketball",
     items: [
       { label: "The Path to NCAA D1", href: "/circuits/recruiting-reality" },
+      { label: "Building Your Recruiting Profile", href: "/circuits/building-your-profile" },
       { label: "USports", href: "/post-secondary/usports" },
       { label: "Alternative Pathways", href: "/post-secondary/alternative-pathways" },
     ],
