@@ -2,6 +2,7 @@
 import { NAV_SECTIONS } from "../config/site.mjs";
 
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+const FEEDBACK_URL = "https://tally.so/r/0Qvl2j";
 const BMAC_URL = "https://www.buymeacoffee.com/scormier";
 ---
 
@@ -36,7 +37,15 @@ const BMAC_URL = "https://www.buymeacoffee.com/scormier";
       </div>
     ))}
 
-    <div class="mt-4 px-3">
+    <div class="mt-4 px-3 space-y-2">
+      <a
+        href={FEEDBACK_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="flex items-center justify-center gap-1.5 w-full px-3 py-2 text-xs text-blue-700 bg-blue-50 border border-blue-100 rounded hover:bg-blue-100 transition-colors no-underline"
+      >
+        Help us get it right →
+      </a>
       <a
         href={BMAC_URL}
         target="_blank"
