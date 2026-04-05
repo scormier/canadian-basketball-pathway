@@ -10,40 +10,40 @@ export const SITE = {
 
 export const NAV_SECTIONS = [
   {
-    label: "Overview",
+    label: "Start Here",
     items: [
       { label: "The Canadian Basketball Pathway", href: "/" },
     ],
   },
   {
-    label: "Sneaker Circuits",
+    label: "Where Should My Kid Play?",
     items: [
-      { label: "Sneaker Circuits Explained", href: "/circuits/sneaker-circuits" },
-      { label: "Evaluating Programs & Teams", href: "/circuits/evaluating-programs" },
+      { label: "Sneaker Circuits Overview", href: "/circuits/sneaker-circuits" },
+      { label: "Choosing a Program", href: "/circuits/evaluating-programs" },
       { label: "Eligibility Rules", href: "/circuits/eligibility-rules" },
     ],
   },
   {
-    label: "Schools & Programs",
+    label: "Schools & Development",
     items: [
       { label: "Prep Schools", href: "/schools/prep-schools" },
-      { label: "NCAA Eligibility for Canadians", href: "/schools/ncaa-eligibility" },
+      { label: "NCAA Eligibility", href: "/schools/ncaa-eligibility" },
       { label: "Reclassification", href: "/schools/reclassification" },
     ],
   },
   {
-    label: "Post-Secondary Options",
+    label: "Getting to College Basketball",
     items: [
       { label: "The Path to NCAA D1", href: "/circuits/recruiting-reality" },
       { label: "USports", href: "/post-secondary/usports" },
-      { label: "Alternative Pathways to D1", href: "/post-secondary/alternative-pathways" },
+      { label: "Alternative Pathways", href: "/post-secondary/alternative-pathways" },
     ],
   },
   {
-    label: "Making Decisions",
+    label: "Making Smart Decisions",
     items: [
-      { label: "Parent Decision Framework", href: "/decisions/parent-framework" },
-      { label: "Red Flags & Misinformation", href: "/decisions/red-flags" },
+      { label: "Decision Framework", href: "/decisions/parent-framework" },
+      { label: "Red Flags", href: "/decisions/red-flags" },
     ],
   },
   {
