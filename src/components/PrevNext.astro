@@ -1,0 +1,29 @@
+---
+import { NAV_SECTIONS } from "../config/site.mjs";
+
+const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+
+// Flatten all nav items into a single ordered list
+const allPages = NAV_SECTIONS.flatMap(section => section.items);
+const currentIndex = allPages.findIndex(item => currentPath === item.href || currentPath === item.href + '/');
+
+const prev = currentIndex > 0 ? allPages[currentIndex - 1] : null;
+const next = currentIndex < allPages.length - 1 ? allPages[currentIndex + 1] : null;
+---
+
+{(prev || next) && (
+  <nav class="mt-12 pt-8 border-t border-gray-200 flex justify-between gap-4" aria-label="Page navigation">
+    {prev ? (
+      <a href={prev.href} class="group flex flex-col text-sm">
+        <span class="text-gray-400 text-xs uppercase tracking-wider mb-1">Previous</span>
+        <span class="text-blue-700 group-hover:underline">{prev.label}</span>
+      </a>
+    ) : <div />}
+    {next ? (
+      <a href={next.href} class="group flex flex-col text-sm text-right ml-auto">
+        <span class="text-gray-400 text-xs uppercase tracking-wider mb-1">Next</span>
+        <span class="text-blue-700 group-hover:underline">{next.label}</span>
+      </a>
+    ) : <div />}
+  </nav>
+)}
