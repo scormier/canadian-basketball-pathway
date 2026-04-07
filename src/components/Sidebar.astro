@@ -21,12 +21,14 @@ const BMAC_URL = "https://www.buymeacoffee.com/scormier";
                 <a
                   href={item.href}
                   class:list={[
-                    "block px-3 py-1.5 rounded-md text-sm transition-colors",
+                    "block px-3 py-1.5 rounded-md text-sm transition-colors sidebar-nav-link",
                     isActive
                       ? "bg-blue-50 text-blue-700 font-medium"
                       : "text-gray-600 hover:text-gray-900 hover:bg-gray-50",
                   ]}
                   aria-current={isActive ? "page" : undefined}
+                  data-href={item.href}
+                  data-label={item.label}
                 >
                   {item.label}
                 </a>
@@ -42,6 +44,7 @@ const BMAC_URL = "https://www.buymeacoffee.com/scormier";
         href={FEEDBACK_URL}
         target="_blank"
         rel="noopener noreferrer"
+        id="sidebar-feedback-link"
         class="flex items-center justify-center gap-1.5 w-full px-3 py-2 text-xs text-blue-700 bg-blue-50 border border-blue-200 rounded hover:bg-blue-100 transition-colors no-underline"
       >
         <svg class="w-3.5 h-3.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -54,6 +57,7 @@ const BMAC_URL = "https://www.buymeacoffee.com/scormier";
         href={BMAC_URL}
         target="_blank"
         rel="noopener noreferrer"
+        id="buy-me-coffee-link"
         class="flex items-center justify-center gap-1.5 w-full px-3 py-2 text-xs text-yellow-700 bg-yellow-50 border border-yellow-200 rounded hover:bg-yellow-100 transition-colors no-underline"
       >
         <svg class="w-3.5 h-3.5 shrink-0" fill="currentColor" viewBox="0 0 24 24">
@@ -65,3 +69,27 @@ const BMAC_URL = "https://www.buymeacoffee.com/scormier";
     </div>
   </nav>
 </aside>
+
+<script is:inline>
+  document.querySelectorAll('.sidebar-nav-link').forEach(function(link) {
+    link.addEventListener('click', function() {
+      window.posthog?.capture('guide_navigation_clicked', {
+        destination: link.getAttribute('data-href'),
+        label: link.getAttribute('data-label'),
+        location: 'sidebar'
+      });
+    });
+  });
+
+  document.getElementById('sidebar-feedback-link')?.addEventListener('click', function() {
+    window.posthog?.capture('sidebar_feedback_clicked', {
+      location: 'sidebar'
+    });
+  });
+
+  document.getElementById('buy-me-coffee-link')?.addEventListener('click', function() {
+    window.posthog?.capture('buy_me_coffee_clicked', {
+      location: 'sidebar'
+    });
+  });
+</script>

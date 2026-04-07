@@ -35,12 +35,14 @@ const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
                 <a
                   href={item.href}
                   class:list={[
-                    "block px-3 py-1.5 rounded-md text-sm transition-colors",
+                    "block px-3 py-1.5 rounded-md text-sm transition-colors mobile-nav-link",
                     isActive
                       ? "bg-blue-50 text-blue-700 font-medium"
                       : "text-gray-600 hover:text-gray-900 hover:bg-gray-50",
                   ]}
                   aria-current={isActive ? "page" : undefined}
+                  data-href={item.href}
+                  data-label={item.label}
                 >
                   {item.label}
                 </a>
@@ -66,4 +68,22 @@ const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
       chevron.style.transform = isExpanded ? '' : 'rotate(180deg)';
     });
   }
+</script>
+
+<script is:inline>
+  document.getElementById('guide-nav-toggle')?.addEventListener('click', function() {
+    var isExpanded = this.getAttribute('aria-expanded') === 'true';
+    window.posthog?.capture('mobile_nav_toggled', {
+      action: isExpanded ? 'closed' : 'opened'
+    });
+  });
+
+  document.querySelectorAll('.mobile-nav-link').forEach(function(link) {
+    link.addEventListener('click', function() {
+      window.posthog?.capture('mobile_nav_link_clicked', {
+        destination: link.getAttribute('data-href'),
+        label: link.getAttribute('data-label')
+      });
+    });
+  });
 </script>

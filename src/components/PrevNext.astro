@@ -14,16 +14,29 @@ const next = currentIndex < allPages.length - 1 ? allPages[currentIndex + 1] : n
 {(prev || next) && (
   <nav class="mt-12 pt-8 border-t border-gray-200 flex justify-between gap-4" aria-label="Page navigation">
     {prev ? (
-      <a href={prev.href} class="group flex flex-col text-sm">
+      <a href={prev.href} class="group flex flex-col text-sm prevnext-link" data-direction="prev" data-destination={prev.href} data-label={prev.label}>
         <span class="text-gray-400 text-xs uppercase tracking-wider mb-1">Previous</span>
         <span class="text-blue-700 group-hover:underline">{prev.label}</span>
       </a>
     ) : <div />}
     {next ? (
-      <a href={next.href} class="group flex flex-col text-sm text-right ml-auto">
+      <a href={next.href} class="group flex flex-col text-sm text-right ml-auto prevnext-link" data-direction="next" data-destination={next.href} data-label={next.label}>
         <span class="text-gray-400 text-xs uppercase tracking-wider mb-1">Next</span>
         <span class="text-blue-700 group-hover:underline">{next.label}</span>
       </a>
     ) : <div />}
   </nav>
 )}
+
+<script is:inline>
+  document.querySelectorAll('.prevnext-link').forEach(function(link) {
+    link.addEventListener('click', function() {
+      window.posthog?.capture('prev_next_clicked', {
+        direction: link.getAttribute('data-direction'),
+        destination: link.getAttribute('data-destination'),
+        label: link.getAttribute('data-label'),
+        from: window.location.pathname
+      });
+    });
+  });
+</script>

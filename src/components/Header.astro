@@ -20,6 +20,7 @@
     <div class="flex items-center gap-4">
       <a
         href="/reference/glossary"
+        id="glossary-nav-link"
         class="text-sm text-gray-600 hover:text-gray-900 transition-colors hidden sm:block"
       >
         Glossary
@@ -27,3 +28,11 @@
     </div>
   </nav>
 </header>
+
+<script is:inline>
+  document.getElementById('glossary-nav-link')?.addEventListener('click', function() {
+    window.posthog?.capture('glossary_nav_clicked', {
+      location: 'header'
+    });
+  });
+</script>
