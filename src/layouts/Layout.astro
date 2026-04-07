@@ -2,7 +2,6 @@
 import '../styles/global.css';
 import { SITE } from '../config/site.mjs';
 import type { SEOProps } from '../types/seo';
-import PostHog from '../components/PostHog.astro';
 
 interface Props extends SEOProps {
   lang?: string;
@@ -85,7 +84,6 @@ const robotsContent = [
 		<meta name="twitter:description" content={twitterDescription} />
 		<meta name="twitter:image" content={fullTwitterImage} />
 		<meta name="google-site-verification" content="GlAEZ0ox7LrcYiALgVltaklySUkJcLCHFdRFWzXrCzI" />
-		<PostHog />
 	</head>
 	<body class="min-h-screen bg-gray-50">
 		<a
